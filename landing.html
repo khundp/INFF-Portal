@@ -4,7 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>INFF Portal</title>
-  <link rel="stylesheet" href="styles.css" />
+
+  <!-- GitHub Pages fix (repo is INFF-Portal) -->
+  <base href="/INFF-Portal/">
+
+  <link rel="stylesheet" href="./styles.css" />
 </head>
 <body class="landing-body">
   <div class="landing-pattern landing-pattern--top" aria-hidden="true"></div>
@@ -12,17 +16,17 @@
   <main class="landing">
     <div class="landing-inner" role="region" aria-label="INFF Portal landing">
       <div class="landing-logos" aria-label="Partner logos">
-        <img src="assets/images/Nigeria_Gov_Logo.png" alt="Nigeria Government" />
-        <img src="assets/images/SDGs_Nigeria_office_Logo.png" alt="SDGs Nigeria Office" />
-        <img src="assets/images/INFF_Logo.png" alt="INFF" />
-        <img src="assets/images/EU_Flag.png" alt="European Union" />
-        <img src="assets/images/UNDP_Logo.png" alt="UNDP" />
+        <img src="./assets/images/Nigeria_Gov_Logo.png" alt="Nigeria Government" />
+        <img src="./assets/images/SDGs_Nigeria_office_Logo.png" alt="SDGs Nigeria Office" />
+        <img src="./assets/images/INFF_Logo.png" alt="INFF" />
+        <img src="./assets/images/EU_Flag.png" alt="European Union" />
+        <img src="./assets/images/UNDP_Logo.png" alt="UNDP" />
       </div>
 
       <div class="landing-row">
         <h1 class="landing-title">Nigeria's Integrated National Financing Framework Dashboard (INFF)</h1>
 
-        <a class="landing-explore" href="index.html#overview" aria-label="Explore dashboard">
+        <a class="landing-explore" href="./index.html#overview" aria-label="Explore dashboard">
           <span>Explore</span>
         </a>
       </div>
@@ -32,7 +36,6 @@
   <div class="landing-pattern landing-pattern--bottom" aria-hidden="true"></div>
 
   <script>
-
     // Explore circle follows the cursor across the whole landing page.
     (function () {
       const btn = document.querySelector('.landing-explore');
@@ -64,17 +67,16 @@
       }
 
       function tick() {
-  const b = bounds();
+        const b = bounds();
 
-  x = clamp(targetX, b.minX, b.maxX);
-  y = clamp(targetY, b.minY, b.maxY);
+        x = clamp(targetX, b.minX, b.maxX);
+        y = clamp(targetY, b.minY, b.maxY);
 
-  btn.style.left = x.toFixed(1) + 'px';
-  btn.style.top  = y.toFixed(1) + 'px';
+        btn.style.left = x.toFixed(1) + 'px';
+        btn.style.top  = y.toFixed(1) + 'px';
 
-  requestAnimationFrame(tick);
-}
-
+        requestAnimationFrame(tick);
+      }
 
       window.addEventListener('mousemove', updateTarget, { passive: true });
       window.addEventListener('resize', () => {
@@ -91,7 +93,6 @@
       btn.style.top  = y + 'px';
       requestAnimationFrame(tick);
     })();
-
   </script>
 </body>
 </html>
