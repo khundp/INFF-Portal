@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>INFF Portal</title>
+<link href="styles.css" rel="stylesheet"/>
+<link href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" rel="stylesheet"/>
+<script defer="" src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script defer="" src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+
+<script defer="" src="https://cdn.jsdelivr.net/npm/chartjs-chart-sankey@0.7.0/dist/chartjs-chart-sankey.min.js"></script>
+
+<script defer="" src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+<body><div class="app-chrome" id="app">
+<header class="topbar">
+<div class="topbar-left">
+<div class="top-logos">
+<img alt="Nigeria Government" src="assets/images/Nigeria_Gov_Logo.png"/>
+<img alt="SDGs Nigeria Office" src="assets/images/SDGs_Nigeria_office_Logo.png"/>
+<img alt="UNDP" src="assets/images/UNDP_Logo.png"/>
+</div>
+<div class="topbar-title">
+<div class="title">The Integrated National Financing Framework</div>
+<div class="subtitle">MONITORING DASHBOARD</div>
+</div>
+</div>
+<div class="topbar-right">
+<div class="meta" id="lastUpdated">Last updated: —</div>
+<div class="meta" id="helloUser">Hello, User</div>
+</div>
+</header>
+<nav aria-label="Sections" class="tabs">
+<a class="tab" data-spy="" href="#overview">Overview</a>
+<a class="tab" data-spy="" href="#pillars">INFF Pillars</a>
+<a class="tab" data-spy="" href="#analytics">Analytics &amp; Reports</a>
+<a class="tab" data-spy="" href="#knowledge">Knowledge &amp; Updates</a>
+<a class="tab" data-spy="" href="#downloads">Downloads</a>
+</nav>
+</div>
+<main class="page">
+<section class="section" id="overview">
+<div class="section-frame">
+<section class="filter-row in-section" id="overviewFilters">
+<div class="filter"><label>Year</label><select id="yearOv"></select></div>
+<div class="filter"><label>State</label><select id="stateOv"></select></div>
+<div class="filter"><label>Sector</label><select id="sectorOv"></select></div>
+<div class="filter"><label>Source</label><select id="sourceOv"></select></div>
+<button class="btn btn-ghost" id="resetOverview" type="button">Reset</button>
+<div class="status" id="statusOverview"></div>
+</section>
+<div class="grid-4">
+<article class="kpi-card chart-card">
+<div class="kpi-head">TOTAL FINANCING<br/>MOBILISED</div>
+<div class="kpi-value" id="kpiTotal">US$—</div>
+<div class="kpi-note">Financing mobilised across years</div>
+<div class="chart-box"><canvas id="miniFinancing"></canvas>
+<button aria-label="Download chart as PNG" class="chart-download" data-export-target="miniFinancing" type="button"><svg aria-hidden="true" viewbox="0 0 24 24"><path d="M12 3a1 1 0 0 1 1 1v9.59l2.3-2.3a1 1 0 1 1 1.4 1.42l-4 4a1 1 0 0 1-1.4 0l-4-4a1 1 0 1 1 1.4-1.42l2.3 2.3V4a1 1 0 0 1 1-1z"></path><path d="M5 19a1 1 0 0 1 1-1h12a1 1 0 1 1 0 2H6a1 1 0 0 1-1-1z"></path></svg></button></div>
+</article>
+<article class="kpi-card chart-card">
+<div class="kpi-head">ESTIMATED FINANCING<br/>GAP</div>
+<div class="kpi-value" id="kpiGap">US$—</div>
+<div class="kpi-note">Gap closed (estimate)</div>
+<div class="donut-wrap">
+<canvas id="donutGap"></canvas>
+<button aria-label="Download chart as PNG" class="chart-download" data-export-target="donutGap" type="button"><svg aria-hidden="true" viewbox="0 0 24 24"><path d="M12 3a1 1 0 0 1 1 1v9.59l2.3-2.3a1 1 0 1 1 1.4 1.42l-4 4a1 1 0 0 1-1.4 0l-4-4a1 1 0 1 1 1.4-1.42l2.3 2.3V4a1 1 0 0 1 1-1z"></path><path d="M5 19a1 1 0 0 1 1-1h12a1 1 0 1 1 0 2H6a1 1 0 0 1-1-1z"></path></svg></button>
+<div class="donut-center">
+<div class="donut-pct" id="kpiGapClosedPct">—%</div>
+<div class="donut-sub">Gap Closed</div>
+</div>
+</div>
+</article>
+<article class="kpi-card" id="kpiReformsCard">
+<div class="kpi-head">NUMBER OF ACTIVE<br/>REFORMS</div>
+<div class="kpi-value" id="kpiReforms">—</div>
+<div class="kpi-note">Status not completed</div>
+</article>
+<article class="kpi-card" id="kpiPartnersCard">
+<div class="kpi-head">NUMBER OF CONTRIBUTING<br/>PARTNERS</div>
+<div class="kpi-value" id="kpiPartners">—</div>
+<div class="chips" id="partnersChips"></div>
+</article>
+</div>
+<div class="grid-2">
+<article class="card">
+<div class="card-title">FINANCING BY SOURCE</div>
+<div class="legend">
+<span><i class="swatch s1"></i> 2020 - 23</span>
+<span><i class="swatch s2"></i> 2024 - 25</span>
+</div>
+<div class="bar-list" id="bySourceBars"></div>
+</article>
+<article class="card">
+<div class="card-title">FINANCING BY SECTOR</div>
+<div class="treemap" id="sectorTreemap"></div>
+</article>
+</div>
+<article class="card overview-map-card">
+<div class="card-title">FINANCING SNAPSHOT MAP</div>
+<p class="section-description">
+          A quick geographic snapshot of key financing indicators. Markers pulse to highlight areas with the largest gaps or highest activity.
+        </p>
+<div class="overview-map" id="overviewMap"></div>
+</article>
+<article class="strip">
+<div class="strip-head">ALERTS AND SIGNALS</div>
+<div class="strip-body" id="alertsList"></div>
+</article>
+<article class="strip">
+<div class="strip-head">FEATURED</div>
+<div class="strip-body">
+<div class="featured" id="featuredList"></div>
+</div>
+</article>
+</div></section>
+<section class="section" id="pillars">
+<div class="section-frame">
+<div class="pillars-intro">
+<p>
+          Explore pillar summaries below. Click "View Pillar" to open details and accordions (as in the PDF).
+        </p>
+</div>
+<div class="pillar-grid">
+<article class="pillar-card">
+<div class="pillar-title">PILLAR 1</div>
+<div class="pillar-sub">Assessments &amp;<br/>Diagnostics</div>
+<div class="pillar-icon">✣</div>
+<div class="pillar-text">Diagnostics of financing landscape, gaps, and bottlenecks.</div>
+<div class="pill-chips"><span>Financing Landscape</span><span>Financing Gap</span><span>Geographic Diagnostics</span><span>Constraints</span><span>Data Integrity</span></div>
+<button class="pill-btn" data-open-pillar="1">View Pillar 1</button>
+</article>
+<article class="pillar-card">
+<div class="pillar-title">PILLAR 2</div>
+<div class="pillar-sub">Integrated Financing<br/>Strategy</div>
+<div class="pillar-icon">⎙</div>
+<div class="pillar-text">Strategy, reforms, and mobilisation pathways.</div>
+<div class="pill-chips"><span>Reform Tracker</span><span>Financing Source</span><span>Private Sector Mobilisation</span></div>
+<button class="pill-btn" data-open-pillar="2">View Pillar 2</button>
+</article>
+<article class="pillar-card">
+<div class="pillar-title">PILLAR 3</div>
+<div class="pillar-sub">Monitoring, Review &amp;<br/>Accountability</div>
+<div class="pillar-icon">⌕</div>
+<div class="pillar-text">Indicators, outcomes, review and learning.</div>
+<div class="pill-chips"><span>Performance Indicators</span><span>Results &amp; Outcomes</span><span>Review &amp; Learning</span></div>
+<button class="pill-btn" data-open-pillar="3">View Pillar 3</button>
+</article>
+<article class="pillar-card">
+<div class="pillar-title">PILLAR 4</div>
+<div class="pillar-sub">Governance &amp;<br/>Coordination</div>
+<div class="pillar-icon">⛭</div>
+<div class="pillar-text">Institutional architecture and partner coordination.</div>
+<div class="pill-chips"><span>Institutional Architecture</span><span>Partner Contributions</span><span>Subnational Coordination</span></div>
+<button class="pill-btn" data-open-pillar="4">View Pillar 4</button>
+</article>
+</div>
+<section class="pillar-detail" hidden="" id="pillarDetail">
+<div class="breadcrumb" id="pillarBreadcrumb">Overview / INFF Pillars</div>
+<div class="pillar-hero">
+<div>
+<h2 id="pillarHeading">PILLAR 1: ASSESSMENTS AND DIAGNOSTICS</h2>
+<p id="pillarDesc">Evaluating Nigeria current financial landscape to understand resources, needs, and opportunities for sustainable development.</p>
+<div class="pill-switch">
+<button class="pill-switch-btn active" data-pillar-tab="flows">Financing Flows by Source  ›</button>
+<button class="pill-switch-btn" data-pillar-tab="indicators">INFF Indicators  ›</button>
+</div>
+</div>
+<div class="hero-img"></div>
+</div>
+<div class="accordion" id="pillarAccordion">
+<div class="acc-item">
+<button class="acc-head" data-acc="landscape"><span>FINANCING LANDSCAPE</span><span class="acc-icon">+</span></button>
+<div class="acc-body" hidden="" id="accLandscape">
+<div class="acc-filter">
+<div class="filter"><label>Year</label><select id="pYear"></select></div>
+<div class="filter"><label>State</label><select id="pState"></select></div>
+<div class="filter"><label>Sector</label><select id="pSector"></select></div>
+<div class="filter"><label>Source</label><select id="pSource"></select></div>
+<button class="btn btn-ghost" id="resetLandscape" type="button">Reset</button>
+<div class="status" id="statusLandscape"></div>
+</div>
+<div class="acc-card">
+<div class="domestic-banner">DOMESTIC PUBLIC FINANCE</div>
+<div class="acc-note">All charts and figures in this section reflect domestic public financing in Nigeria.</div>
+<div class="domestic-finance-wrap">
+<div class="acc-title">REVENUE</div>
+<div class="rev-layout">
+<div class="rev-left">
+<div class="rev-card">
+<div class="rev-card-head">
+<div>
+<div class="rev-card-title">TOTAL REVENUE</div>
+<div class="rev-big" id="revTotalBig">US$—</div>
+<div class="rev-sub" id="revTotalYear">—</div>
+</div>
+<div class="rev-legend">
+<div class="rev-legend-item"><span class="swatch sw1"></span><span>Tax Revenue</span></div>
+<div class="rev-legend-item"><span class="swatch sw2"></span><span>Non-Tax Revenue</span></div>
+</div>
+</div>
+<div class="rev-total-grid">
+<div class="rev-donut"><canvas id="revDonut"></canvas></div>
+<div class="rev-mini"><canvas id="revMiniBars"></canvas></div>
+</div>
+</div>
+<div class="rev-card">
+<div class="rev-card-title">OIL, GAS AND NATURAL RESOURCE REVENUES</div>
+<div class="rev-oil-text">
+                        Revenue from oil, gas and natural resources can represent a major share of domestic public financing. The bars below show the composition of extractive sector revenues by source for the selected year.
+                      </div>
+<div class="rev-caps-row" id="revOilPills"></div>
+</div>
+</div>
+<div class="rev-right">
+<div class="rev-card">
+<div class="rev-card-head flows">
+<div>
+<div class="rev-card-title">REVENUE FLOWS</div>
+<div class="rev-sub">Switch view to explore different breakdowns</div>
+</div>
+<div class="rev-toggle">
+<span class="rev-toggle-label">BY SECTOR</span>
+<label aria-label="Toggle revenue flows by sector" class="switch">
+<input checked="" id="revFlowToggle" type="checkbox"/>
+<span class="slider"></span>
+</label>
+</div>
+</div>
+<div class="rev-sankey"><canvas id="revSankey"></canvas></div>
+</div>
+</div>
+</div>
+<div class="acc-card domestic-borrowing-card">
+<div class="db-head">
+<div>
+<div class="acc-title">DOMESTIC BORROWING</div>
+<p class="rev-oil-text">Domestic borrowing instruments can provide important fiscal space for development priorities. The charts below show borrowing volumes by instrument over time and the composition of domestic borrowing for the selected view.</p>
+</div>
+<div class="db-toggle">
+<span>BY SECTOR</span>
+<label class="switch">
+<input id="borrowToggle" type="checkbox"/>
+<span class="slider"></span>
+</label>
+</div>
+</div>
+<div class="db-grid">
+<div class="chart-box db-bars"><canvas id="domBorrowBars"></canvas></div>
+<div class="db-tiles" id="domBorrowTiles"></div>
+</div>
+</div>
+<div class="grid-2">
+<div class="acc-card">
+<div class="acc-title">STATE OWNED ENTERPRISES AND PUBLIC ENTITIES</div>
+<p class="rev-oil-text">State-owned enterprises and public entities can generate revenues that contribute to the central budget and public investment. The chart below shows key financial flows from SOEs over time for the selected view.</p>
+<div class="chart-box"><canvas id="bubble"></canvas></div>
+</div>
+<div class="acc-card">
+<div class="db-head" style="margin-bottom:8px;">
+<div>
+<div class="acc-title">EARMARKED FUNDS AND SPECIAL ACCOUNTS</div>
+<p class="rev-oil-text">Earmarked funds and special accounts channel resources to specific policy priorities. The chart below shows earmarked flows over time and the composition of earmarked financing for the selected view.</p>
+</div>
+<div class="db-toggle">
+<span>BY SECTOR</span>
+<label aria-label="Toggle earmarked funds by sector" class="switch">
+<input id="earmarkedToggle" type="checkbox"/>
+<span class="slider"></span>
+</label>
+</div>
+</div>
+<div class="chart-box"><canvas id="earmarked"></canvas></div>
+</div>
+</div>
+<div class="acc-card">
+<div class="acc-title">PUBLIC PENSION AND SOCIAL SECURITY FUNDS</div>
+<p class="section-description">
+                  Public pension and social security funds can help protect households, smooth consumption across the life cycle, and support long‑term domestic investment. The charts below show fund inflows by category over time and the relative composition for the selected view.
+                </p>
+<div class="acc-grid">
+<div class="rev-card" style="background:transparent; box-shadow:none; padding:0;">
+<div class="pension-donut-wrap">
+<div class="rev-donut" style="max-width:260px;"><canvas id="pensionDonut"></canvas></div>
+<div class="rev-legend" id="pensionLegend"></div>
+</div>
+</div>
+<div class="chart-box"><canvas id="pensionBars"></canvas></div>
+</div>
+</div>
+</div>
+
+<div class="acc-card">
+<div class="finance-banner">INTERNATIONAL PUBLIC FINANCE</div>
+<div class="acc-note">All charts and figures in this section reflect international public financing in Nigeria.</div>
+<div class="international-finance-wrap">
+<div class="intl-grid">
+
+<div class="intl-left">
+<div class="intl-tiles">
+<div class="rev-card intl-tile total">
+<div class="rev-card-title">TOTAL INTERNATIONAL PUBLIC FINANCING</div>
+<div class="rev-big" id="intTotalBig">US$—</div>
+<div class="rev-sub">As of <span id="intTotalYear">—</span></div>
+<div class="intl-change-row">
+<span class="intl-change" id="intTotalChange">—</span>
+<span class="intl-change-label">real change since <span id="intTotalChangeYear">2024</span></span>
+</div>
+</div>
+<div class="rev-card intl-tile">
+<div class="rev-card-title">% TOTAL FINANCING</div>
+<div class="donut-wrap small"><canvas id="intPctTotal"></canvas><div class="donut-center"><div class="donut-pct" id="intPctTotalCenter">—%</div><div class="donut-sub total">TOTAL</div></div></div>
+</div>
+<div class="rev-card intl-tile">
+<div class="rev-card-title">FINANCING BY YEAR</div>
+<div class="chart-box intl-mini-chart"><canvas id="intByYear"></canvas></div>
+</div>
+<div class="rev-card intl-tile">
+<div class="rev-card-title">FINANCING BY INSTRUMENT</div>
+<div class="donut-wrap small"><canvas id="intByInstrument"></canvas><div class="donut-center"><div class="donut-pct" id="intInstrTotalCenter">—</div><div class="donut-sub total">TOTAL</div></div></div>
+<div class="intl-chip-row">
+<span class="chip">Loans</span>
+<span class="chip">Grants</span>
+<span class="chip">Other</span>
+</div>
+</div>
+</div>
+</div>
+
+<div class="intl-right">
+<div class="rev-card">
+<div class="rev-card-title">TOP FINANCING PARTNERS</div>
+<div class="chart-box intl-right-chart"><canvas id="intTopPartners"></canvas></div>
+</div>
+<div class="rev-card">
+<div class="rev-card-title">FINANCING BY SECTOR</div>
+<div class="chart-box intl-right-chart"><canvas id="intBySector"></canvas></div>
+</div>
+</div>
+</div>
+<div class="rev-card intl-wide"><div class="rev-card-head flows"><div><div class="rev-card-title">FINANCING BY INSTRUMENT AND SECTOR</div><div class="rev-sub">Switch view to explore different breakdowns</div></div><div class="rev-toggle"><span class="rev-toggle-label">BY SECTOR</span><label class="switch"><input id="intFlowToggle" type="checkbox"/><span class="slider"></span></label></div></div>
+<div class="rev-sankey"><canvas id="intSankey"></canvas></div>
+</div>
+
+<div class="rev-card intl-wide projects">
+  <div class="projects-header">
+    <div>
+      <div class="rev-card-title">ACTIVE PROJECTS — INTERNATIONAL PUBLIC FINANCE</div>
+      <div class="rev-sub" id="intProjectsSubtitle">Showing — of — active projects. Filter by partner, sector, or instrument above.</div>
+    </div>
+  </div>
+
+  <div class="table-wrap">
+    <table class="projects-table" id="intProjectsTable">
+      <thead>
+        <tr>
+          <th>PROJECT NAME</th>
+          <th>PARTNER</th>
+          <th>SECTOR</th>
+          <th>INSTRUMENT</th>
+          <th>BUDGET (PLANNED)</th>
+          <th>ACTUAL DISBURSED</th>
+          <th>STATUS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="muted-cell" colspan="7">Dummy rows will load here…</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="projects-footer">
+    <div class="projects-info" id="intProjectsInfo">Showing — of — projects</div>
+    <div class="projects-pager" id="intProjectsPager"></div>
+  </div>
+</div>
+</div>
+
+</div>
+
+
+</div>
+</div>
+<div class="acc-item">
+<button class="acc-head" data-acc="gap"><span>FINANCING GAP ANALYSIS</span><span class="acc-icon">+</span></button>
+<div class="acc-body" hidden="" id="accGap">
+<div class="acc-filter">
+<div class="filter"><label>Year</label><select id="gYear"></select></div>
+<div class="filter"><label>State</label><select id="gState"></select></div>
+<div class="filter"><label>Sector</label><select id="gSector"></select></div>
+<button class="btn btn-ghost" id="resetGap" type="button">Reset</button>
+<div class="status" id="statusGap"></div>
+</div>
+<div class="acc-card">
+<div class="acc-title">AGGREGATE NATIONAL DEBT</div>
+<div class="acc-grid">
+<div>
+<div class="fake-bars" id="debtBars"></div>
+<div class="chart-box"><canvas id="debtMini"></canvas></div>
+</div>
+<div class="chart-box"><canvas id="debtMain"></canvas></div>
+</div>
+</div>
+<div class="acc-card">
+<div class="acc-title">SECTOR LEVEL GAPS</div>
+<div class="acc-grid">
+<div class="waffle" id="w1"></div>
+<div class="waffle" id="w2"></div>
+<div class="waffle" id="w3"></div>
+<div class="donut-wrap small">
+<canvas id="donutGap2"></canvas>
+<div class="donut-center">
+<div class="donut-pct" id="gap2pct">—%</div>
+<div class="donut-sub">Gap Closed</div>
+</div>
+</div>
+</div>
+</div>
+<div class="acc-card">
+<div class="acc-title">GAP TRENDS OVER TIME</div>
+<div class="trend-grid">
+<div class="trend-card"><div class="trend-title">Caseload</div><div class="trend-sub">last 8 weeks</div><div class="chart-box"><canvas id="t1"></canvas></div><div class="trend-num" id="t1n">—</div></div>
+<div class="trend-card"><div class="trend-title">Partner Reports</div><div class="trend-sub">last 8 weeks</div><div class="chart-box"><canvas id="t2"></canvas></div><div class="trend-num" id="t2n">—</div></div>
+<div class="trend-card"><div class="trend-title">Budget Burn</div><div class="trend-sub">last 8 weeks</div><div class="chart-box"><canvas id="t3"></canvas></div><div class="trend-num" id="t3n">—</div></div>
+</div>
+</div>
+<div class="acc-card">
+<div class="acc-title">PLANNED VERSUS REQUIRED FINANCIALS</div>
+<div class="acc-grid">
+<div class="chart-box"><canvas id="planGantt"></canvas></div>
+<div class="chart-box"><canvas id="planBars"></canvas></div>
+<div class="chart-box"><canvas id="planRadar"></canvas></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="acc-item">
+<button class="acc-head muted" data-acc="geo"><span>GEOGRAPHIC DIAGNOSTICS</span><span class="acc-icon">+</span></button>
+<div class="acc-body" hidden=""><div class="acc-card">Coming soon.</div></div>
+</div>
+<div class="acc-item">
+<button class="acc-head muted" data-acc="constraints"><span>CONSTRAINTS AND BOTTLENECKS</span><span class="acc-icon">+</span></button>
+<div class="acc-body" hidden=""><div class="acc-card">Coming soon.</div></div>
+</div>
+<div class="acc-item">
+<button class="acc-head muted" data-acc="integrity"><span>DATA AND SOURCES OF INTEGRITY</span><span class="acc-icon">+</span></button>
+<div class="acc-body" hidden=""><div class="acc-card">Coming soon.</div></div>
+</div>
+</div><div class="muted-text" hidden="" id="pillarComingSoon" style="margin:18px 0;"></div>
+<div hidden="" id="pillarExtras">
+
+<div class="pillar-extra" hidden="" id="pillar2Extra">
+<div class="grid-2">
+<div class="acc-card"><div class="acc-title">REFORMS BY STATUS</div><div class="chart-box"><canvas id="p2ReformStatus"></canvas></div></div>
+<div class="acc-card"><div class="acc-title">REFORMS BY SECTOR</div><div class="chart-box"><canvas id="p2ReformSector"></canvas></div></div>
+</div>
+<div class="acc-card">
+<div class="acc-title">REFORM TRACKER (TOP 12)</div>
+<div class="table-wrap">
+<table class="data-table" id="p2ReformTable">
+<thead>
+<tr>
+<th>Reform</th>
+<th>Status</th>
+<th>At risk</th>
+<th>Lead institution</th>
+<th>Start</th>
+<th>End</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="pillar-extra" hidden="" id="pillar3Extra">
+<div class="grid-2">
+<div class="acc-card"><div class="acc-title">MOBILISED VS PLANNED (TREND BY YEAR)</div><div class="chart-box"><canvas id="p3PlannedVsActual"></canvas></div></div>
+<div class="acc-card"><div class="acc-title">GAP CLOSED (WEIGHTED, BY YEAR)</div><div class="chart-box"><canvas id="p3GapClosedTrend"></canvas></div></div>
+</div>
+</div>
+
+<div class="pillar-extra" hidden="" id="pillar4Extra">
+<div class="grid-2">
+<div class="acc-card"><div class="acc-title">PARTNER CONTRIBUTIONS BY TYPE</div><div class="chart-box"><canvas id="p4PartnerType"></canvas></div></div>
+<div class="acc-card"><div class="acc-title">TOP PARTNERS BY CONTRIBUTION (USD)</div><div class="chart-box"><canvas id="p4TopPartners"></canvas></div></div>
+</div>
+</div>
+</div>
+</div></section>
+</div></section>
+<section class="section" id="analytics">
+<div class="section-frame">
+<div class="page-title">Analytics &amp; Reports</div>
+<div class="grid-2">
+<div class="card"><div class="card-title">TIME SERIES</div><div class="chart-box"><canvas id="ts1"></canvas></div></div>
+<div class="card"><div class="card-title">STATE COMPARISON</div><div class="chart-box"><canvas id="ts2"></canvas></div></div>
+</div>
+<div class="card"><div class="card-title">REPORT GENERATOR</div><p class="muted-text"></p></div>
+</div></section>
+<section class="section" id="knowledge">
+<div class="section-frame">
+<div class="page-title">Knowledge &amp; Updates</div>
+<div class="card"><div class="card-title">LATEST UPDATES</div><div class="posts" id="postsList"></div></div>
+</div></section>
+<section class="section" id="downloads">
+<div class="section-frame">
+<div class="page-title">Downloads</div>
+<div class="card"><div class="card-title">FILES</div><ul class="download-list" id="downloadsList"></ul></div>
+</div></section>
+</main>
+
+<div aria-hidden="true" class="modal" id="subsectorModal">
+<div class="modal-backdrop" data-close="1"></div>
+<div aria-label="Sub-sector breakdown" aria-modal="true" class="modal-card" role="dialog">
+<div class="modal-head">
+<div>
+<div class="modal-title" id="subsectorTitle">Sub-sector breakdown</div>
+<div class="modal-sub" id="subsectorSubtitle">Click outside to close</div>
+</div>
+<button class="modal-close" id="closeSubsector" type="button">✕</button>
+</div>
+<div class="modal-body">
+<div class="chart-box modal-chart"><canvas id="subsectorChart"></canvas></div>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="footer-inner">
+<div class="footer-col">
+<div class="footer-logos">
+<img alt="Nigeria Government" src="assets/images/Nigeria_Gov_Logo.png"/>
+<img alt="SDGs Nigeria Office" src="assets/images/SDGs_Nigeria_office_Logo.png"/>
+<img alt="INFF" src="assets/images/INFF_Logo.png"/>
+<img alt="European Union" src="assets/images/EU_Flag.png"/>
+<img alt="UNDP" src="assets/images/UNDP_Logo.png"/>
+</div>
+<div class="footer-title">INFF Nigeria</div>
+<div class="footer-text">Authoritative, living source of INFF implementation data in Nigeria.</div>
+</div>
+<div class="footer-col">
+<div class="footer-h">INFF PILLARS</div>
+<a class="footer-a" href="#pillars">Assessment &amp; Diagnostics</a>
+<a class="footer-a" href="#pillars">Integrated Financing Strategy</a>
+<a class="footer-a" href="#pillars">Performance &amp; Reviews</a>
+<a class="footer-a" href="#pillars">Governance &amp; Coordination</a>
+</div>
+<div class="footer-col">
+<div class="footer-h">QUICK LINKS</div>
+<a class="footer-a" href="#overview">View Financing Gaps</a>
+<a class="footer-a" href="#pillars">Track Reforms</a>
+<a class="footer-a" href="#knowledge">Latest INFF Updates</a>
+<a class="footer-a" href="#analytics">Subnational SDG Scorecards</a>
+</div>
+<div class="footer-col">
+<div class="footer-h">CONTACT</div>
+<div class="footer-text">inff@nigeria.gov.ng</div>
+<div class="footer-text">Abuja, Nigeria</div>
+<div class="social"><span class="soc">Ã</span><span class="soc">f</span><span class="soc">⌁</span><span class="soc">in</span></div>
+</div>
+</div>
+<div class="footer-bottom">Â© 2026 INFF Nigeria • All rights reserved</div>
+</footer>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
