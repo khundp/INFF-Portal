@@ -1,0 +1,58 @@
+[
+  {
+    "Year": 2019,
+    "VAT": 85464927,
+    "CIT": 102240213,
+    "PIT + Other Taxes": 108695058,
+    "Non-Tax Revenues": 120856695,
+    "Oil & Gas": 138756449
+  },
+  {
+    "Year": 2020,
+    "VAT": 160871922,
+    "CIT": 185144365,
+    "PIT + Other Taxes": 213972274,
+    "Non-Tax Revenues": 244192411,
+    "Oil & Gas": 272970256
+  },
+  {
+    "Year": 2021,
+    "VAT": 231230837,
+    "CIT": 266863319,
+    "PIT + Other Taxes": 313505194,
+    "Non-Tax Revenues": 356855418,
+    "Oil & Gas": 398546166
+  },
+  {
+    "Year": 2022,
+    "VAT": 299499771,
+    "CIT": 357458012,
+    "PIT + Other Taxes": 421193363,
+    "Non-Tax Revenues": 471476858,
+    "Oil & Gas": 534790013
+  },
+  {
+    "Year": 2023,
+    "VAT": 375030860,
+    "CIT": 437878547,
+    "PIT + Other Taxes": 519584520,
+    "Non-Tax Revenues": 591859981,
+    "Oil & Gas": 658614484
+  },
+  {
+    "Year": 2024,
+    "VAT": 438105817,
+    "CIT": 528931293,
+    "PIT + Other Taxes": 611385546,
+    "Non-Tax Revenues": 705561069,
+    "Oil & Gas": 793981316
+  },
+  {
+    "Year": 2025,
+    "VAT": 515485471,
+    "CIT": 614567195,
+    "PIT + Other Taxes": 714827787,
+    "Non-Tax Revenues": 823542235,
+    "Oil & Gas": 923215317
+  }
+]

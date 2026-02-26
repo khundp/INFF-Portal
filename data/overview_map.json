@@ -1,0 +1,57 @@
+{
+  "center": [
+    9.082,
+    8.6753
+  ],
+  "zoom": 6,
+  "points": [
+    {
+      "name": "Lagos",
+      "lat": 6.5244,
+      "lng": 3.3792,
+      "status": "high",
+      "gap_usd_m": 210.3,
+      "projects": 26
+    },
+    {
+      "name": "FCT (Abuja)",
+      "lat": 9.0765,
+      "lng": 7.3986,
+      "status": "normal",
+      "gap_usd_m": 95.4,
+      "projects": 15
+    },
+    {
+      "name": "Kano",
+      "lat": 12.0022,
+      "lng": 8.592,
+      "status": "normal",
+      "gap_usd_m": 88.1,
+      "projects": 12
+    },
+    {
+      "name": "Rivers",
+      "lat": 4.8156,
+      "lng": 7.0498,
+      "status": "high",
+      "gap_usd_m": 160.7,
+      "projects": 19
+    },
+    {
+      "name": "Borno",
+      "lat": 11.8333,
+      "lng": 13.15,
+      "status": "high",
+      "gap_usd_m": 175.2,
+      "projects": 14
+    },
+    {
+      "name": "Enugu",
+      "lat": 6.4402,
+      "lng": 7.4943,
+      "status": "normal",
+      "gap_usd_m": 62.9,
+      "projects": 10
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "unit": "USD",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "categories": [
+      "Treasury Bills",
+      "Commercial Loan",
+      "Sukuk",
+      "Bond",
+      "Other"
+    ],
+    "sectors": [
+      "Health",
+      "Education",
+      "Energy",
+      "Transport",
+      "Agriculture",
+      "ICT",
+      "Water"
+    ]
+  },
+  "national": {
+    "bars": [
+      {
+        "year": 2022,
+        "category": "Treasury Bills",
+        "value_usd": 15000000000.0
+      },
+      {
+        "year": 2022,
+        "category": "Commercial Loan",
+        "value_usd": 19000000000.0
+      },
+      {
+        "year": 2022,
+        "category": "Sukuk",
+        "value_usd": 23000000000.0
+      },
+      {
+        "year": 2022,
+        "category": "Bond",
+        "value_usd": 13000000000.0
+      },
+      {
+        "year": 2022,
+        "category": "Other",
+        "value_usd": 14000000000.0
+      },
+      {
+        "year": 2023,
+        "category": "Treasury Bills",
+        "value_usd": 17000000000.0
+      },
+      {
+        "year": 2023,
+        "category": "Commercial Loan",
+        "value_usd": 21000000000.0
+      },
+      {
+        "year": 2023,
+        "category": "Sukuk",
+        "value_usd": 25000000000.0
+      },
+      {
+        "year": 2023,
+        "category": "Bond",
+        "value_usd": 16000000000.0
+      },
+      {
+        "year": 2023,
+        "category": "Other",
+        "value_usd": 24000000000.0
+      },
+      {
+        "year": 2024,
+        "category": "Treasury Bills",
+        "value_usd": 11000000000.0
+      },
+      {
+        "year": 2024,
+        "category": "Commercial Loan",
+        "value_usd": 12000000000.0
+      },
+      {
+        "year": 2024,
+        "category": "Sukuk",
+        "value_usd": 17000000000.0
+      },
+      {
+        "year": 2024,
+        "category": "Bond",
+        "value_usd": 17000000000.0
+      },
+      {
+        "year": 2024,
+        "category": "Other",
+        "value_usd": 12000000000.0
+      },
+      {
+        "year": 2025,
+        "category": "Treasury Bills",
+        "value_usd": 12000000000.0
+      },
+      {
+        "year": 2025,
+        "category": "Commercial Loan",
+        "value_usd": 19000000000.0
+      },
+      {
+        "year": 2025,
+        "category": "Sukuk",
+        "value_usd": 17000000000.0
+      },
+      {
+        "year": 2025,
+        "category": "Bond",
+        "value_usd": 11000000000.0
+      },
+      {
+        "year": 2025,
+        "category": "Other",
+        "value_usd": 20000000000.0
+      }
+    ],
+    "tiles": [
+      {
+        "label": "Treasury Bills",
+        "value_usd": 12000000000.0,
+        "color": "#7E6AE6"
+      },
+      {
+        "label": "Commercial Loan",
+        "value_usd": 19000000000.0,
+        "color": "#4DB6AC"
+      },
+      {
+        "label": "Sukuk",
+        "value_usd": 17000000000.0,
+        "color": "#B79BFF"
+      },
+      {
+        "label": "Bond",
+        "value_usd": 11000000000.0,
+        "color": "#F2B24C"
+      },
+      {
+        "label": "Other",
+        "value_usd": 20000000000.0,
+        "color": "#6FD1A8"
+      }
+    ]
+  },
+  "by_sector": {
+    "bars": [
+      {
+        "year": 2022,
+        "sector": "Health",
+        "value_usd": 9000000000.0
+      },
+      {
+        "year": 2022,
+        "sector": "Education",
+        "value_usd": 6000000000.0
+      },
+      {
+        "year": 2022,
+        "sector": "Energy",
+        "value_usd": 12000000000.0
+      },
+      {
+        "year": 2022,
+        "sector": "Transport",
+        "value_usd": 6000000000.0
+      },
+      {
+        "year": 2022,
+        "sector": "Agriculture",
+        "value_usd": 9000000000.0
+      },
+      {
+        "year": 2022,
+        "sector": "ICT",
+        "value_usd": 6000000000.0
+      },
+      {
+        "year": 2022,
+        "sector": "Water",
+        "value_usd": 14000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "Health",
+        "value_usd": 11000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "Education",
+        "value_usd": 13000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "Energy",
+        "value_usd": 9000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "Transport",
+        "value_usd": 15000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "Agriculture",
+        "value_usd": 8000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "ICT",
+        "value_usd": 11000000000.0
+      },
+      {
+        "year": 2023,
+        "sector": "Water",
+        "value_usd": 15000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "Health",
+        "value_usd": 17000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "Education",
+        "value_usd": 16000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "Energy",
+        "value_usd": 18000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "Transport",
+        "value_usd": 20000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "Agriculture",
+        "value_usd": 16000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "ICT",
+        "value_usd": 23000000000.0
+      },
+      {
+        "year": 2024,
+        "sector": "Water",
+        "value_usd": 16000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "Health",
+        "value_usd": 14000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "Education",
+        "value_usd": 17000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "Energy",
+        "value_usd": 21000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "Transport",
+        "value_usd": 22000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "Agriculture",
+        "value_usd": 20000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "ICT",
+        "value_usd": 19000000000.0
+      },
+      {
+        "year": 2025,
+        "sector": "Water",
+        "value_usd": 21000000000.0
+      }
+    ],
+    "tiles": [
+      {
+        "label": "Health",
+        "value_usd": 14000000000.0
+      },
+      {
+        "label": "Education",
+        "value_usd": 17000000000.0
+      },
+      {
+        "label": "Energy",
+        "value_usd": 21000000000.0
+      },
+      {
+        "label": "Transport",
+        "value_usd": 22000000000.0
+      },
+      {
+        "label": "Agriculture",
+        "value_usd": 20000000000.0
+      },
+      {
+        "label": "ICT",
+        "value_usd": 19000000000.0
+      },
+      {
+        "label": "Water",
+        "value_usd": 21000000000.0
+      }
+    ]
+  }
+}

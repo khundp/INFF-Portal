@@ -1,0 +1,42 @@
+[
+  {
+    "Year": 2021,
+    "Infrastructure Fund": 34240641,
+    "Education Fund": 39041789,
+    "Health Fund": 41305615,
+    "Social Intervention": 40924215,
+    "Sovereign Wealth": 45129404
+  },
+  {
+    "Year": 2022,
+    "Infrastructure Fund": 44233282,
+    "Education Fund": 48263962,
+    "Health Fund": 54502746,
+    "Social Intervention": 59098097,
+    "Sovereign Wealth": 64706431
+  },
+  {
+    "Year": 2023,
+    "Infrastructure Fund": 51208433,
+    "Education Fund": 56658324,
+    "Health Fund": 66776332,
+    "Social Intervention": 72912492,
+    "Sovereign Wealth": 82675857
+  },
+  {
+    "Year": 2024,
+    "Infrastructure Fund": 60214127,
+    "Education Fund": 69592211,
+    "Health Fund": 77549659,
+    "Social Intervention": 89505033,
+    "Sovereign Wealth": 98580077
+  },
+  {
+    "Year": 2025,
+    "Infrastructure Fund": 65646982,
+    "Education Fund": 78180514,
+    "Health Fund": 90758522,
+    "Social Intervention": 105986913,
+    "Sovereign Wealth": 117906005
+  }
+]

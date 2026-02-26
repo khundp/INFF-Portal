@@ -1,0 +1,51 @@
+[
+  {
+    "Year": 2019,
+    "Treasury Bills": 35055820,
+    "Govt Bonds": 37261422,
+    "Sukuk": 44796443,
+    "Domestic Loans": 48683688
+  },
+  {
+    "Year": 2020,
+    "Treasury Bills": 62888373,
+    "Govt Bonds": 75566781,
+    "Sukuk": 83186387,
+    "Domestic Loans": 96934509
+  },
+  {
+    "Year": 2021,
+    "Treasury Bills": 88602412,
+    "Govt Bonds": 109503385,
+    "Sukuk": 127859274,
+    "Domestic Loans": 145554392
+  },
+  {
+    "Year": 2022,
+    "Treasury Bills": 117287981,
+    "Govt Bonds": 139081724,
+    "Sukuk": 166991567,
+    "Domestic Loans": 191946130
+  },
+  {
+    "Year": 2023,
+    "Treasury Bills": 142710674,
+    "Govt Bonds": 174596961,
+    "Sukuk": 206688578,
+    "Domestic Loans": 235159814
+  },
+  {
+    "Year": 2024,
+    "Treasury Bills": 175398012,
+    "Govt Bonds": 208755461,
+    "Sukuk": 243072011,
+    "Domestic Loans": 283621343
+  },
+  {
+    "Year": 2025,
+    "Treasury Bills": 203895772,
+    "Govt Bonds": 245749673,
+    "Sukuk": 286415707,
+    "Domestic Loans": 324783940
+  }
+]

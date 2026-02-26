@@ -1,0 +1,38 @@
+{
+  "bars": {
+    "Programs": [
+      "Tax Reform",
+      "Guarantee Scheme",
+      "SOE Dividend Policy",
+      "State INFF Rollout"
+    ],
+    "Planned_USD": [
+      320000000,
+      210000000,
+      140000000,
+      180000000
+    ],
+    "Required_USD": [
+      420000000,
+      260000000,
+      200000000,
+      240000000
+    ]
+  },
+  "radar": {
+    "axes": [
+      "Revenue",
+      "Private",
+      "Climate",
+      "Capacity",
+      "Governance"
+    ],
+    "values": [
+      70,
+      55,
+      48,
+      62,
+      58
+    ]
+  }
+}

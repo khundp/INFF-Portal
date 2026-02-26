@@ -1,0 +1,48 @@
+{
+  "totalRevenue": {
+    "highlightYear": 2025,
+    "taxKeys": ["VAT", "CIT", "PIT + Other Taxes"],
+    "nonTaxKeys": ["Non-Tax Revenues", "Oil & Gas"]
+  },
+  "oilGasBreakdown": [
+    {"label": "Dividends", "tag": "Upstream", "value_usd": 34200000000},
+    {"label": "Royalties", "tag": "Upstream", "value_usd": 28700000000},
+    {"label": "Licenses", "tag": "Midstream", "value_usd": 19400000000},
+    {"label": "Fees", "tag": "Services", "value_usd": 12200000000},
+    {"label": "Other", "tag": "Other", "value_usd": 8800000000}
+  ],
+  "revenueFlows": {
+    "bySector": {
+      "links": [
+        {"from": "Tax", "to": "Health", "flow": 6.2},
+        {"from": "Tax", "to": "Education", "flow": 5.4},
+        {"from": "Tax", "to": "Transport", "flow": 3.1},
+        {"from": "Tax", "to": "Energy", "flow": 2.7},
+        {"from": "Non‑Tax", "to": "Energy", "flow": 4.9},
+        {"from": "Non‑Tax", "to": "Industry", "flow": 2.3},
+        {"from": "Non‑Tax", "to": "Losses", "flow": 1.7},
+        {"from": "Health", "to": "Households", "flow": 5.3},
+        {"from": "Education", "to": "Households", "flow": 4.8},
+        {"from": "Transport", "to": "Households", "flow": 2.4},
+        {"from": "Energy", "to": "Industry", "flow": 5.2},
+        {"from": "Industry", "to": "Exports", "flow": 1.4}
+      ]
+    },
+    "bySource": {
+      "links": [
+        {"from": "VAT", "to": "Tax", "flow": 6.5},
+        {"from": "CIT", "to": "Tax", "flow": 5.2},
+        {"from": "PIT", "to": "Tax", "flow": 4.9},
+        {"from": "Fees", "to": "Non‑Tax", "flow": 2.4},
+        {"from": "Dividends", "to": "Non‑Tax", "flow": 3.8},
+        {"from": "Tax", "to": "Budget", "flow": 15.1},
+        {"from": "Non‑Tax", "to": "Budget", "flow": 6.2},
+        {"from": "Budget", "to": "Public Services", "flow": 14.2},
+        {"from": "Budget", "to": "Transfers", "flow": 4.5},
+        {"from": "Budget", "to": "Losses", "flow": 2.6},
+        {"from": "Public Services", "to": "Households", "flow": 10.7},
+        {"from": "Transfers", "to": "Households", "flow": 3.9}
+      ]
+    }
+  }
+}

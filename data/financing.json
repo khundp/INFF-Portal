@@ -1,0 +1,4727 @@
+[
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 26413171,
+    "Required_Amount_USD": 49807512,
+    "Gap_USD": 23394341
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 16729295,
+    "Required_Amount_USD": 37491368,
+    "Gap_USD": 20762073
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 27939336,
+    "Required_Amount_USD": 43251327,
+    "Gap_USD": 15311991
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 16201701,
+    "Required_Amount_USD": 32920495,
+    "Gap_USD": 16718794
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 36100099,
+    "Required_Amount_USD": 48765317,
+    "Gap_USD": 12665218
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 31558064,
+    "Required_Amount_USD": 46205618,
+    "Gap_USD": 14647554
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 41818238,
+    "Required_Amount_USD": 71340858,
+    "Gap_USD": 29522620
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 36183632,
+    "Required_Amount_USD": 53956934,
+    "Gap_USD": 17773302
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 27615337,
+    "Required_Amount_USD": 44959342,
+    "Gap_USD": 17344005
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 43904256,
+    "Required_Amount_USD": 61297472,
+    "Gap_USD": 17393216
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 44804652,
+    "Required_Amount_USD": 64412701,
+    "Gap_USD": 19608049
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 35057401,
+    "Required_Amount_USD": 48624898,
+    "Gap_USD": 13567497
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 44459298,
+    "Required_Amount_USD": 64121776,
+    "Gap_USD": 19662478
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 29814421,
+    "Required_Amount_USD": 45215228,
+    "Gap_USD": 15400807
+  },
+  {
+    "Year": 2019,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 35720682,
+    "Required_Amount_USD": 48593795,
+    "Gap_USD": 12873113
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 54788518,
+    "Required_Amount_USD": 85031727,
+    "Gap_USD": 30243209
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 46043180,
+    "Required_Amount_USD": 70384360,
+    "Gap_USD": 24341180
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 51310376,
+    "Required_Amount_USD": 75435948,
+    "Gap_USD": 24125572
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 35219343,
+    "Required_Amount_USD": 61734596,
+    "Gap_USD": 26515253
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 46018591,
+    "Required_Amount_USD": 75722408,
+    "Gap_USD": 29703817
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 50338729,
+    "Required_Amount_USD": 85171716,
+    "Gap_USD": 34832987
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 38005303,
+    "Required_Amount_USD": 62267612,
+    "Gap_USD": 24262309
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 32457472,
+    "Required_Amount_USD": 53296731,
+    "Gap_USD": 20839259
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 28187295,
+    "Required_Amount_USD": 44250783,
+    "Gap_USD": 16063488
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 48716358,
+    "Required_Amount_USD": 67566874,
+    "Gap_USD": 18850516
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 31370719,
+    "Required_Amount_USD": 50400301,
+    "Gap_USD": 19029582
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 37383102,
+    "Required_Amount_USD": 54388694,
+    "Gap_USD": 17005592
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 40070280,
+    "Required_Amount_USD": 54022819,
+    "Gap_USD": 13952539
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 26671393,
+    "Required_Amount_USD": 37544223,
+    "Gap_USD": 10872830
+  },
+  {
+    "Year": 2019,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 35703213,
+    "Required_Amount_USD": 53136278,
+    "Gap_USD": 17433065
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 49937855,
+    "Required_Amount_USD": 71563027,
+    "Gap_USD": 21625172
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 48971260,
+    "Required_Amount_USD": 71463768,
+    "Gap_USD": 22492508
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 55348493,
+    "Required_Amount_USD": 75862142,
+    "Gap_USD": 20513649
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 42759097,
+    "Required_Amount_USD": 71767318,
+    "Gap_USD": 29008221
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 52854036,
+    "Required_Amount_USD": 86160673,
+    "Gap_USD": 33306637
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 45843963,
+    "Required_Amount_USD": 76679407,
+    "Gap_USD": 30835444
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 42360410,
+    "Required_Amount_USD": 70734985,
+    "Gap_USD": 28374575
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 41139910,
+    "Required_Amount_USD": 62064084,
+    "Gap_USD": 20924174
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 34939960,
+    "Required_Amount_USD": 52959426,
+    "Gap_USD": 18019466
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 40442026,
+    "Required_Amount_USD": 66679403,
+    "Gap_USD": 26237377
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 48303041,
+    "Required_Amount_USD": 71274923,
+    "Gap_USD": 22971882
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 50727662,
+    "Required_Amount_USD": 79884852,
+    "Gap_USD": 29157190
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 59759013,
+    "Required_Amount_USD": 103920109,
+    "Gap_USD": 44161096
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 60670743,
+    "Required_Amount_USD": 96198733,
+    "Gap_USD": 35527990
+  },
+  {
+    "Year": 2019,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 54956630,
+    "Required_Amount_USD": 89356804,
+    "Gap_USD": 34400174
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 59777223,
+    "Required_Amount_USD": 99084768,
+    "Gap_USD": 39307545
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 55549220,
+    "Required_Amount_USD": 91321111,
+    "Gap_USD": 35771891
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 68208742,
+    "Required_Amount_USD": 109098390,
+    "Gap_USD": 40889648
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 51686616,
+    "Required_Amount_USD": 77487274,
+    "Gap_USD": 25800658
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 48874639,
+    "Required_Amount_USD": 79878620,
+    "Gap_USD": 31003981
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 47854880,
+    "Required_Amount_USD": 69613682,
+    "Gap_USD": 21758802
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 58863382,
+    "Required_Amount_USD": 95171901,
+    "Gap_USD": 36308519
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 58093843,
+    "Required_Amount_USD": 98230570,
+    "Gap_USD": 40136727
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 53471253,
+    "Required_Amount_USD": 90366109,
+    "Gap_USD": 36894856
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 44715278,
+    "Required_Amount_USD": 68177002,
+    "Gap_USD": 23461724
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 41093587,
+    "Required_Amount_USD": 55633628,
+    "Gap_USD": 14540041
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 46468513,
+    "Required_Amount_USD": 68915781,
+    "Gap_USD": 22447268
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 42184391,
+    "Required_Amount_USD": 76250501,
+    "Gap_USD": 34066110
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 48792741,
+    "Required_Amount_USD": 87413284,
+    "Gap_USD": 38620543
+  },
+  {
+    "Year": 2019,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 54835185,
+    "Required_Amount_USD": 91699689,
+    "Gap_USD": 36864504
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 63284517,
+    "Required_Amount_USD": 106191731,
+    "Gap_USD": 42907214
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 65525049,
+    "Required_Amount_USD": 111971054,
+    "Gap_USD": 46446005
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 74037339,
+    "Required_Amount_USD": 118086121,
+    "Gap_USD": 44048782
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 56986067,
+    "Required_Amount_USD": 73736176,
+    "Gap_USD": 16750109
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 71685091,
+    "Required_Amount_USD": 100315370,
+    "Gap_USD": 28630279
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 51880342,
+    "Required_Amount_USD": 77128796,
+    "Gap_USD": 25248454
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 54837799,
+    "Required_Amount_USD": 71793095,
+    "Gap_USD": 16955296
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 46620501,
+    "Required_Amount_USD": 62075390,
+    "Gap_USD": 15454889
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 64895212,
+    "Required_Amount_USD": 83401275,
+    "Gap_USD": 18506063
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 56846526,
+    "Required_Amount_USD": 86414883,
+    "Gap_USD": 29568357
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 52061792,
+    "Required_Amount_USD": 83427322,
+    "Gap_USD": 31365530
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 65047148,
+    "Required_Amount_USD": 101860493,
+    "Gap_USD": 36813345
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 58981864,
+    "Required_Amount_USD": 101407965,
+    "Gap_USD": 42426101
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 67573775,
+    "Required_Amount_USD": 113189994,
+    "Gap_USD": 45616219
+  },
+  {
+    "Year": 2019,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 49797273,
+    "Required_Amount_USD": 81278433,
+    "Gap_USD": 31481160
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 60681581,
+    "Required_Amount_USD": 88571311,
+    "Gap_USD": 27889730
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 30508455,
+    "Required_Amount_USD": 52941278,
+    "Gap_USD": 22432823
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 52908698,
+    "Required_Amount_USD": 82119295,
+    "Gap_USD": 29210597
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 49095587,
+    "Required_Amount_USD": 72912085,
+    "Gap_USD": 23816498
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 59663243,
+    "Required_Amount_USD": 78947759,
+    "Gap_USD": 19284516
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 84638998,
+    "Required_Amount_USD": 109645215,
+    "Gap_USD": 25006217
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 68135719,
+    "Required_Amount_USD": 108468326,
+    "Gap_USD": 40332607
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 72917250,
+    "Required_Amount_USD": 123608801,
+    "Gap_USD": 50691551
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 44821317,
+    "Required_Amount_USD": 73080706,
+    "Gap_USD": 28259389
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 78370929,
+    "Required_Amount_USD": 103010903,
+    "Gap_USD": 24639974
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 38395118,
+    "Required_Amount_USD": 57892637,
+    "Gap_USD": 19497519
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 66273853,
+    "Required_Amount_USD": 92604477,
+    "Gap_USD": 26330624
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 64281076,
+    "Required_Amount_USD": 107779727,
+    "Gap_USD": 43498651
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 79718079,
+    "Required_Amount_USD": 131127308,
+    "Gap_USD": 51409229
+  },
+  {
+    "Year": 2020,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 56724684,
+    "Required_Amount_USD": 97720799,
+    "Gap_USD": 40996115
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 74758516,
+    "Required_Amount_USD": 115020522,
+    "Gap_USD": 40262006
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 62011349,
+    "Required_Amount_USD": 93976736,
+    "Gap_USD": 31965387
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 53579537,
+    "Required_Amount_USD": 78173622,
+    "Gap_USD": 24594085
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 101412378,
+    "Required_Amount_USD": 135605670,
+    "Gap_USD": 34193292
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 86620641,
+    "Required_Amount_USD": 109899049,
+    "Gap_USD": 23278408
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 81159973,
+    "Required_Amount_USD": 103736014,
+    "Gap_USD": 22576041
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 72570097,
+    "Required_Amount_USD": 106915696,
+    "Gap_USD": 34345599
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 66987114,
+    "Required_Amount_USD": 97443966,
+    "Gap_USD": 30456852
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 88298680,
+    "Required_Amount_USD": 133760784,
+    "Gap_USD": 45462104
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 51687726,
+    "Required_Amount_USD": 81811856,
+    "Gap_USD": 30124130
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 48114445,
+    "Required_Amount_USD": 79746896,
+    "Gap_USD": 31632451
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 64141467,
+    "Required_Amount_USD": 100361818,
+    "Gap_USD": 36220351
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 89518068,
+    "Required_Amount_USD": 144548232,
+    "Gap_USD": 55030164
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 102702242,
+    "Required_Amount_USD": 163509635,
+    "Gap_USD": 60807393
+  },
+  {
+    "Year": 2020,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 70420092,
+    "Required_Amount_USD": 112825911,
+    "Gap_USD": 42405819
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 70422732,
+    "Required_Amount_USD": 101748095,
+    "Gap_USD": 31325363
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 91514555,
+    "Required_Amount_USD": 137564657,
+    "Gap_USD": 46050102
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 84288067,
+    "Required_Amount_USD": 127276226,
+    "Gap_USD": 42988159
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 100389224,
+    "Required_Amount_USD": 141679578,
+    "Gap_USD": 41290354
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 91975853,
+    "Required_Amount_USD": 133265813,
+    "Gap_USD": 41289960
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 104499817,
+    "Required_Amount_USD": 150856047,
+    "Gap_USD": 46356230
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 83501720,
+    "Required_Amount_USD": 135327975,
+    "Gap_USD": 51826255
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 99531124,
+    "Required_Amount_USD": 163170838,
+    "Gap_USD": 63639714
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 86065624,
+    "Required_Amount_USD": 143403118,
+    "Gap_USD": 57337494
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 91718500,
+    "Required_Amount_USD": 116998771,
+    "Gap_USD": 25280271
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 80163451,
+    "Required_Amount_USD": 102991906,
+    "Gap_USD": 22828455
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 104127842,
+    "Required_Amount_USD": 139234962,
+    "Gap_USD": 35107120
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 65173680,
+    "Required_Amount_USD": 86742195,
+    "Gap_USD": 21568515
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 74519767,
+    "Required_Amount_USD": 100176296,
+    "Gap_USD": 25656529
+  },
+  {
+    "Year": 2020,
+    "State": "Kano",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 87007898,
+    "Required_Amount_USD": 113838391,
+    "Gap_USD": 26830493
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 92669826,
+    "Required_Amount_USD": 144064225,
+    "Gap_USD": 51394399
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 120298075,
+    "Required_Amount_USD": 187641901,
+    "Gap_USD": 67343826
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 106044494,
+    "Required_Amount_USD": 168461621,
+    "Gap_USD": 62417127
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 103119567,
+    "Required_Amount_USD": 151386810,
+    "Gap_USD": 48267243
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 118705227,
+    "Required_Amount_USD": 165414286,
+    "Gap_USD": 46709059
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 106538466,
+    "Required_Amount_USD": 150089311,
+    "Gap_USD": 43550845
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 91586444,
+    "Required_Amount_USD": 137911531,
+    "Gap_USD": 46325087
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 79542299,
+    "Required_Amount_USD": 119592727,
+    "Gap_USD": 40050428
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 112969089,
+    "Required_Amount_USD": 158210041,
+    "Gap_USD": 45240952
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 109640726,
+    "Required_Amount_USD": 142571913,
+    "Gap_USD": 32931187
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 120662249,
+    "Required_Amount_USD": 153981112,
+    "Gap_USD": 33318863
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 90894642,
+    "Required_Amount_USD": 115798160,
+    "Gap_USD": 24903518
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 87387072,
+    "Required_Amount_USD": 112457460,
+    "Gap_USD": 25070388
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 97265869,
+    "Required_Amount_USD": 125690835,
+    "Gap_USD": 28424966
+  },
+  {
+    "Year": 2020,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 105152838,
+    "Required_Amount_USD": 133909732,
+    "Gap_USD": 28756894
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 107948293,
+    "Required_Amount_USD": 171085994,
+    "Gap_USD": 63137701
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 111338127,
+    "Required_Amount_USD": 174678086,
+    "Gap_USD": 63339959
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 124104976,
+    "Required_Amount_USD": 192971007,
+    "Gap_USD": 68866031
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 124965909,
+    "Required_Amount_USD": 158307366,
+    "Gap_USD": 33341457
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 104750024,
+    "Required_Amount_USD": 138422634,
+    "Gap_USD": 33672610
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 109233147,
+    "Required_Amount_USD": 141200029,
+    "Gap_USD": 31966882
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 90836759,
+    "Required_Amount_USD": 117244290,
+    "Gap_USD": 26407531
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 113842573,
+    "Required_Amount_USD": 147118408,
+    "Gap_USD": 33275835
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 79237090,
+    "Required_Amount_USD": 101249194,
+    "Gap_USD": 22012104
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 101473203,
+    "Required_Amount_USD": 148694314,
+    "Gap_USD": 47221111
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 119700210,
+    "Required_Amount_USD": 175591490,
+    "Gap_USD": 55891280
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 108377886,
+    "Required_Amount_USD": 151773206,
+    "Gap_USD": 43395320
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 99270338,
+    "Required_Amount_USD": 158359293,
+    "Gap_USD": 59088955
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 111520924,
+    "Required_Amount_USD": 174100078,
+    "Gap_USD": 62579154
+  },
+  {
+    "Year": 2020,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 133004401,
+    "Required_Amount_USD": 211797371,
+    "Gap_USD": 78792970
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 66594496,
+    "Required_Amount_USD": 109165278,
+    "Gap_USD": 42570782
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 103172341,
+    "Required_Amount_USD": 167074342,
+    "Gap_USD": 63902001
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 90214187,
+    "Required_Amount_USD": 149044095,
+    "Gap_USD": 58829908
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 140017983,
+    "Required_Amount_USD": 174195544,
+    "Gap_USD": 34177561
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 106559735,
+    "Required_Amount_USD": 138411519,
+    "Gap_USD": 31851784
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 129027405,
+    "Required_Amount_USD": 165099516,
+    "Gap_USD": 36072111
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 72844467,
+    "Required_Amount_USD": 99265056,
+    "Gap_USD": 26420589
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 98186220,
+    "Required_Amount_USD": 129574622,
+    "Gap_USD": 31388402
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 113898608,
+    "Required_Amount_USD": 146638600,
+    "Gap_USD": 32739992
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 113676959,
+    "Required_Amount_USD": 164824896,
+    "Gap_USD": 51147937
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 78031753,
+    "Required_Amount_USD": 113262560,
+    "Gap_USD": 35230807
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 64913313,
+    "Required_Amount_USD": 102180973,
+    "Gap_USD": 37267660
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 107693793,
+    "Required_Amount_USD": 150393430,
+    "Gap_USD": 42699637
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 115849087,
+    "Required_Amount_USD": 166209880,
+    "Gap_USD": 50360793
+  },
+  {
+    "Year": 2021,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 127663140,
+    "Required_Amount_USD": 184557564,
+    "Gap_USD": 56894424
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 118923474,
+    "Required_Amount_USD": 149130801,
+    "Gap_USD": 30207327
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 145080571,
+    "Required_Amount_USD": 187744534,
+    "Gap_USD": 42663963
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 135668809,
+    "Required_Amount_USD": 173426095,
+    "Gap_USD": 37757286
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 86503987,
+    "Required_Amount_USD": 138524824,
+    "Gap_USD": 52020837
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 103265939,
+    "Required_Amount_USD": 163239753,
+    "Gap_USD": 59973814
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 110336094,
+    "Required_Amount_USD": 170913931,
+    "Gap_USD": 60577837
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 99527737,
+    "Required_Amount_USD": 140584298,
+    "Gap_USD": 41056561
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 110820307,
+    "Required_Amount_USD": 161560580,
+    "Gap_USD": 50740273
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 139633455,
+    "Required_Amount_USD": 203163319,
+    "Gap_USD": 63529864
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 89352531,
+    "Required_Amount_USD": 116316416,
+    "Gap_USD": 26963885
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 112437918,
+    "Required_Amount_USD": 140018527,
+    "Gap_USD": 27580609
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 131288173,
+    "Required_Amount_USD": 164334045,
+    "Gap_USD": 33045872
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 133695362,
+    "Required_Amount_USD": 174124323,
+    "Gap_USD": 40428961
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 105646926,
+    "Required_Amount_USD": 132618835,
+    "Gap_USD": 26971909
+  },
+  {
+    "Year": 2021,
+    "State": "Lagos",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 93825858,
+    "Required_Amount_USD": 121771882,
+    "Gap_USD": 27946024
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 137339300,
+    "Required_Amount_USD": 198876826,
+    "Gap_USD": 61537526
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 110579760,
+    "Required_Amount_USD": 163474442,
+    "Gap_USD": 52894682
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 98140594,
+    "Required_Amount_USD": 140160027,
+    "Gap_USD": 42019433
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 157406360,
+    "Required_Amount_USD": 221646579,
+    "Gap_USD": 64240219
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 170745280,
+    "Required_Amount_USD": 240158639,
+    "Gap_USD": 69413359
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 132324110,
+    "Required_Amount_USD": 192383507,
+    "Gap_USD": 60059397
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 128539917,
+    "Required_Amount_USD": 199109829,
+    "Gap_USD": 70569912
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 105635648,
+    "Required_Amount_USD": 168247194,
+    "Gap_USD": 62611546
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 139417074,
+    "Required_Amount_USD": 218684234,
+    "Gap_USD": 79267160
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 133925934,
+    "Required_Amount_USD": 168032651,
+    "Gap_USD": 34106717
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 159715259,
+    "Required_Amount_USD": 200538233,
+    "Gap_USD": 40822974
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 149063132,
+    "Required_Amount_USD": 186439404,
+    "Gap_USD": 37376272
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 108319191,
+    "Required_Amount_USD": 140534297,
+    "Gap_USD": 32215106
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 96851752,
+    "Required_Amount_USD": 129039014,
+    "Gap_USD": 32187262
+  },
+  {
+    "Year": 2021,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 146187766,
+    "Required_Amount_USD": 181469964,
+    "Gap_USD": 35282198
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 111249459,
+    "Required_Amount_USD": 144400883,
+    "Gap_USD": 33151424
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 151504944,
+    "Required_Amount_USD": 193348822,
+    "Gap_USD": 41843878
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 130959239,
+    "Required_Amount_USD": 169181096,
+    "Gap_USD": 38221857
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 179190642,
+    "Required_Amount_USD": 224607864,
+    "Gap_USD": 45417222
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 143206057,
+    "Required_Amount_USD": 184994988,
+    "Gap_USD": 41788931
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 164993477,
+    "Required_Amount_USD": 209516113,
+    "Gap_USD": 44522636
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 164034494,
+    "Required_Amount_USD": 258893246,
+    "Gap_USD": 94858752
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 182963674,
+    "Required_Amount_USD": 281586750,
+    "Gap_USD": 98623076
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 193069869,
+    "Required_Amount_USD": 303565910,
+    "Gap_USD": 110496041
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 136934463,
+    "Required_Amount_USD": 190316221,
+    "Gap_USD": 53381758
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 170704202,
+    "Required_Amount_USD": 242641601,
+    "Gap_USD": 71937399
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 158538329,
+    "Required_Amount_USD": 226772758,
+    "Gap_USD": 68234429
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 132230153,
+    "Required_Amount_USD": 189002772,
+    "Gap_USD": 56772619
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 118225534,
+    "Required_Amount_USD": 172233058,
+    "Gap_USD": 54007524
+  },
+  {
+    "Year": 2021,
+    "State": "Rivers",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 169591780,
+    "Required_Amount_USD": 239611221,
+    "Gap_USD": 70019441
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 188174974,
+    "Required_Amount_USD": 231683819,
+    "Gap_USD": 43508845
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 153835281,
+    "Required_Amount_USD": 195473697,
+    "Gap_USD": 41638416
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 172930911,
+    "Required_Amount_USD": 213668318,
+    "Gap_USD": 40737407
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 137022358,
+    "Required_Amount_USD": 190322102,
+    "Gap_USD": 53299744
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 190962141,
+    "Required_Amount_USD": 265355441,
+    "Gap_USD": 74393300
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 175151060,
+    "Required_Amount_USD": 243571566,
+    "Gap_USD": 68420506
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 207350362,
+    "Required_Amount_USD": 257477272,
+    "Gap_USD": 50126910
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 165500987,
+    "Required_Amount_USD": 207900239,
+    "Gap_USD": 42399252
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 193233206,
+    "Required_Amount_USD": 243068881,
+    "Gap_USD": 49835675
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 140059182,
+    "Required_Amount_USD": 216902369,
+    "Gap_USD": 76843187
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 129704358,
+    "Required_Amount_USD": 199987349,
+    "Gap_USD": 70282991
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 170442069,
+    "Required_Amount_USD": 265896877,
+    "Gap_USD": 95454808
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 172647626,
+    "Required_Amount_USD": 215504572,
+    "Gap_USD": 42856946
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 152787504,
+    "Required_Amount_USD": 198278757,
+    "Gap_USD": 45491253
+  },
+  {
+    "Year": 2021,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 132743293,
+    "Required_Amount_USD": 168366287,
+    "Gap_USD": 35622994
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 61593495,
+    "Required_Amount_USD": 94368365,
+    "Gap_USD": 32774870
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 92178451,
+    "Required_Amount_USD": 137929521,
+    "Gap_USD": 45751070
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 113831986,
+    "Required_Amount_USD": 164398090,
+    "Gap_USD": 50566104
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 79885324,
+    "Required_Amount_USD": 120118502,
+    "Gap_USD": 40233178
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 132438252,
+    "Required_Amount_USD": 191504786,
+    "Gap_USD": 59066534
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 101733333,
+    "Required_Amount_USD": 144906764,
+    "Gap_USD": 43173431
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 168776728,
+    "Required_Amount_USD": 212063303,
+    "Gap_USD": 43286575
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 135966647,
+    "Required_Amount_USD": 177189019,
+    "Gap_USD": 41222372
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 154098163,
+    "Required_Amount_USD": 198029537,
+    "Gap_USD": 43931374
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 148370037,
+    "Required_Amount_USD": 187546973,
+    "Gap_USD": 39176936
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 162903685,
+    "Required_Amount_USD": 204603147,
+    "Gap_USD": 41699462
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 133568676,
+    "Required_Amount_USD": 166736373,
+    "Gap_USD": 33167697
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 146895451,
+    "Required_Amount_USD": 233139690,
+    "Gap_USD": 86244239
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 162180244,
+    "Required_Amount_USD": 254628751,
+    "Gap_USD": 92448507
+  },
+  {
+    "Year": 2022,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 109821899,
+    "Required_Amount_USD": 170214354,
+    "Gap_USD": 60392455
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 161145945,
+    "Required_Amount_USD": 227182042,
+    "Gap_USD": 66036097
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 197062312,
+    "Required_Amount_USD": 271204428,
+    "Gap_USD": 74142116
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 146333783,
+    "Required_Amount_USD": 205756001,
+    "Gap_USD": 59422218
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 114609366,
+    "Required_Amount_USD": 185111025,
+    "Gap_USD": 70501659
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 132657155,
+    "Required_Amount_USD": 208017698,
+    "Gap_USD": 75360543
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 150593251,
+    "Required_Amount_USD": 238877392,
+    "Gap_USD": 88284141
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 141380588,
+    "Required_Amount_USD": 222007335,
+    "Gap_USD": 80626747
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 159258884,
+    "Required_Amount_USD": 250673051,
+    "Gap_USD": 91414167
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 96003131,
+    "Required_Amount_USD": 153086679,
+    "Gap_USD": 57083548
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 135442867,
+    "Required_Amount_USD": 176438831,
+    "Gap_USD": 40995964
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 167283646,
+    "Required_Amount_USD": 212879144,
+    "Gap_USD": 45595498
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 120257359,
+    "Required_Amount_USD": 158542816,
+    "Gap_USD": 38285457
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 120606291,
+    "Required_Amount_USD": 172363715,
+    "Gap_USD": 51757424
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 152972140,
+    "Required_Amount_USD": 215730241,
+    "Gap_USD": 62758101
+  },
+  {
+    "Year": 2022,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 135533893,
+    "Required_Amount_USD": 189995024,
+    "Gap_USD": 54461131
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 145395864,
+    "Required_Amount_USD": 187598540,
+    "Gap_USD": 42202676
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 191919445,
+    "Required_Amount_USD": 245194960,
+    "Gap_USD": 53275515
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 128777086,
+    "Required_Amount_USD": 168334449,
+    "Gap_USD": 39557363
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 210584592,
+    "Required_Amount_USD": 324133640,
+    "Gap_USD": 113549048
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 172485095,
+    "Required_Amount_USD": 267544176,
+    "Gap_USD": 95059081
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 139427289,
+    "Required_Amount_USD": 217151462,
+    "Gap_USD": 77724173
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 146480649,
+    "Required_Amount_USD": 204872585,
+    "Gap_USD": 58391936
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 110701090,
+    "Required_Amount_USD": 155210097,
+    "Gap_USD": 44509007
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 176057397,
+    "Required_Amount_USD": 251961307,
+    "Gap_USD": 75903910
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 198285180,
+    "Required_Amount_USD": 310663347,
+    "Gap_USD": 112378167
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 175060567,
+    "Required_Amount_USD": 267796629,
+    "Gap_USD": 92736062
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 229415598,
+    "Required_Amount_USD": 353893819,
+    "Gap_USD": 124478221
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 182658048,
+    "Required_Amount_USD": 254681473,
+    "Gap_USD": 72023425
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 197030979,
+    "Required_Amount_USD": 275227705,
+    "Gap_USD": 78196726
+  },
+  {
+    "Year": 2022,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 154094213,
+    "Required_Amount_USD": 221042152,
+    "Gap_USD": 66947939
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 202051560,
+    "Required_Amount_USD": 287212487,
+    "Gap_USD": 85160927
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 141561842,
+    "Required_Amount_USD": 201206000,
+    "Gap_USD": 59644158
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 184714548,
+    "Required_Amount_USD": 258528592,
+    "Gap_USD": 73814044
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 194600673,
+    "Required_Amount_USD": 242307208,
+    "Gap_USD": 47706535
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 246506989,
+    "Required_Amount_USD": 309575698,
+    "Gap_USD": 63068709
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 226390842,
+    "Required_Amount_USD": 284227388,
+    "Gap_USD": 57836546
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 222597285,
+    "Required_Amount_USD": 277240172,
+    "Gap_USD": 54642887
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 206970009,
+    "Required_Amount_USD": 254374506,
+    "Gap_USD": 47404497
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 240913954,
+    "Required_Amount_USD": 295761607,
+    "Gap_USD": 54847653
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 169940072,
+    "Required_Amount_USD": 210290185,
+    "Gap_USD": 40350113
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 216117490,
+    "Required_Amount_USD": 268365257,
+    "Gap_USD": 52247767
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 199458053,
+    "Required_Amount_USD": 253610556,
+    "Gap_USD": 54152503
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 130026893,
+    "Required_Amount_USD": 168590468,
+    "Gap_USD": 38563575
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 149182864,
+    "Required_Amount_USD": 193981934,
+    "Gap_USD": 44799070
+  },
+  {
+    "Year": 2022,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 197741911,
+    "Required_Amount_USD": 247176813,
+    "Gap_USD": 49434902
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 204158100,
+    "Required_Amount_USD": 254428210,
+    "Gap_USD": 50270110
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 158408779,
+    "Required_Amount_USD": 204985561,
+    "Gap_USD": 46576782
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 190946405,
+    "Required_Amount_USD": 237454541,
+    "Gap_USD": 46508136
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 225085837,
+    "Required_Amount_USD": 277602631,
+    "Gap_USD": 52516794
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 180420306,
+    "Required_Amount_USD": 225960940,
+    "Gap_USD": 45540634
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 213334284,
+    "Required_Amount_USD": 263387468,
+    "Gap_USD": 50053184
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 186449050,
+    "Required_Amount_USD": 261867086,
+    "Gap_USD": 75418036
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 251991591,
+    "Required_Amount_USD": 354738356,
+    "Gap_USD": 102746765
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 237927522,
+    "Required_Amount_USD": 331044236,
+    "Gap_USD": 93116714
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 242977049,
+    "Required_Amount_USD": 374567376,
+    "Gap_USD": 131590327
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 192669790,
+    "Required_Amount_USD": 300757657,
+    "Gap_USD": 108087867
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 211507741,
+    "Required_Amount_USD": 326829144,
+    "Gap_USD": 115321403
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 233674795,
+    "Required_Amount_USD": 356180944,
+    "Gap_USD": 122506149
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 223661018,
+    "Required_Amount_USD": 347739765,
+    "Gap_USD": 124078747
+  },
+  {
+    "Year": 2022,
+    "State": "FCT",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 188761716,
+    "Required_Amount_USD": 293550232,
+    "Gap_USD": 104788516
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 232890579,
+    "Required_Amount_USD": 288990338,
+    "Gap_USD": 56099759
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 146833910,
+    "Required_Amount_USD": 181875667,
+    "Gap_USD": 35041757
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 190401422,
+    "Required_Amount_USD": 236420918,
+    "Gap_USD": 46019496
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 162772441,
+    "Required_Amount_USD": 234562996,
+    "Gap_USD": 71790555
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 185906468,
+    "Required_Amount_USD": 264223520,
+    "Gap_USD": 78317052
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 120015395,
+    "Required_Amount_USD": 174906248,
+    "Gap_USD": 54890853
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 107943231,
+    "Required_Amount_USD": 136286771,
+    "Gap_USD": 28343540
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 133445186,
+    "Required_Amount_USD": 167832416,
+    "Gap_USD": 34387230
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 87016593,
+    "Required_Amount_USD": 116326169,
+    "Gap_USD": 29309576
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 195428858,
+    "Required_Amount_USD": 275547431,
+    "Gap_USD": 80118573
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 173324686,
+    "Required_Amount_USD": 248217415,
+    "Gap_USD": 74892729
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 208807837,
+    "Required_Amount_USD": 294521291,
+    "Gap_USD": 85713454
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 74711817,
+    "Required_Amount_USD": 107805793,
+    "Gap_USD": 33093976
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 120480601,
+    "Required_Amount_USD": 174429743,
+    "Gap_USD": 53949142
+  },
+  {
+    "Year": 2023,
+    "State": "Adamawa",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 100255395,
+    "Required_Amount_USD": 148978275,
+    "Gap_USD": 48722880
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 122095504,
+    "Required_Amount_USD": 159877930,
+    "Gap_USD": 37782426
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 141996308,
+    "Required_Amount_USD": 182811785,
+    "Gap_USD": 40815477
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 164125261,
+    "Required_Amount_USD": 202816214,
+    "Gap_USD": 38690953
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 186849018,
+    "Required_Amount_USD": 290105854,
+    "Gap_USD": 103256836
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 210425184,
+    "Required_Amount_USD": 328769890,
+    "Gap_USD": 118344706
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 228768595,
+    "Required_Amount_USD": 348637240,
+    "Gap_USD": 119868645
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 241328571,
+    "Required_Amount_USD": 336007092,
+    "Gap_USD": 94678521
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 181620772,
+    "Required_Amount_USD": 250417461,
+    "Gap_USD": 68796689
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 202632620,
+    "Required_Amount_USD": 285398984,
+    "Gap_USD": 82766364
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 124870905,
+    "Required_Amount_USD": 156815840,
+    "Gap_USD": 31944935
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 147433382,
+    "Required_Amount_USD": 184503264,
+    "Gap_USD": 37069882
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 209180676,
+    "Required_Amount_USD": 260913435,
+    "Gap_USD": 51732759
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Education",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 264502171,
+    "Required_Amount_USD": 330497604,
+    "Gap_USD": 65995433
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 219461266,
+    "Required_Amount_USD": 272442645,
+    "Gap_USD": 52981379
+  },
+  {
+    "Year": 2023,
+    "State": "Lagos",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 198331802,
+    "Required_Amount_USD": 252246855,
+    "Gap_USD": 53915053
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 171231668,
+    "Required_Amount_USD": 268809080,
+    "Gap_USD": 97577412
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 146601080,
+    "Required_Amount_USD": 233420044,
+    "Gap_USD": 86818964
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 229991206,
+    "Required_Amount_USD": 350029846,
+    "Gap_USD": 120038640
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 225614749,
+    "Required_Amount_USD": 283952499,
+    "Gap_USD": 58337750
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 270008331,
+    "Required_Amount_USD": 331503014,
+    "Gap_USD": 61494683
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 245495911,
+    "Required_Amount_USD": 308630975,
+    "Gap_USD": 63135064
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 220129818,
+    "Required_Amount_USD": 278273024,
+    "Gap_USD": 58143206
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 197664267,
+    "Required_Amount_USD": 249836534,
+    "Gap_USD": 52172267
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 181325331,
+    "Required_Amount_USD": 227988925,
+    "Gap_USD": 46663594
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 185462592,
+    "Required_Amount_USD": 259293026,
+    "Gap_USD": 73830434
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 252430757,
+    "Required_Amount_USD": 352673183,
+    "Gap_USD": 100242426
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 203616139,
+    "Required_Amount_USD": 285219899,
+    "Gap_USD": 81603760
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 264817425,
+    "Required_Amount_USD": 404778040,
+    "Gap_USD": 139960615
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 284405117,
+    "Required_Amount_USD": 432228761,
+    "Gap_USD": 147823644
+  },
+  {
+    "Year": 2023,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 218309030,
+    "Required_Amount_USD": 340890592,
+    "Gap_USD": 122581562
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 242560297,
+    "Required_Amount_USD": 298490882,
+    "Gap_USD": 55930585
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 302939149,
+    "Required_Amount_USD": 371116729,
+    "Gap_USD": 68177580
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 321127704,
+    "Required_Amount_USD": 398229989,
+    "Gap_USD": 77102285
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 249310826,
+    "Required_Amount_USD": 385634902,
+    "Gap_USD": 136324076
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 290951224,
+    "Required_Amount_USD": 442774303,
+    "Gap_USD": 151823079
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 271645125,
+    "Required_Amount_USD": 417980102,
+    "Gap_USD": 146334977
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 255757972,
+    "Required_Amount_USD": 358459662,
+    "Gap_USD": 102701690
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 236818078,
+    "Required_Amount_USD": 333781147,
+    "Gap_USD": 96963069
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 187801143,
+    "Required_Amount_USD": 259679452,
+    "Gap_USD": 71878309
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 237514330,
+    "Required_Amount_USD": 291533509,
+    "Gap_USD": 54019179
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 255890416,
+    "Required_Amount_USD": 313720100,
+    "Gap_USD": 57829684
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 216628443,
+    "Required_Amount_USD": 266640362,
+    "Gap_USD": 50011919
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 249512102,
+    "Required_Amount_USD": 304900176,
+    "Gap_USD": 55388074
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 205385800,
+    "Required_Amount_USD": 256905063,
+    "Gap_USD": 51519263
+  },
+  {
+    "Year": 2023,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 232678534,
+    "Required_Amount_USD": 285155764,
+    "Gap_USD": 52477230
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 250969355,
+    "Required_Amount_USD": 346829482,
+    "Gap_USD": 95860127
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 288675926,
+    "Required_Amount_USD": 397649676,
+    "Gap_USD": 108973750
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 266912433,
+    "Required_Amount_USD": 371749812,
+    "Gap_USD": 104837379
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 324657363,
+    "Required_Amount_USD": 501769797,
+    "Gap_USD": 177112434
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 255200558,
+    "Required_Amount_USD": 391696312,
+    "Gap_USD": 136495754
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 299868405,
+    "Required_Amount_USD": 459063639,
+    "Gap_USD": 159195234
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 322328831,
+    "Required_Amount_USD": 496298900,
+    "Gap_USD": 173970069
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 308809892,
+    "Required_Amount_USD": 473040496,
+    "Gap_USD": 164230604
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 348934211,
+    "Required_Amount_USD": 537571711,
+    "Gap_USD": 188637500
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 244429210,
+    "Required_Amount_USD": 304112681,
+    "Gap_USD": 59683471
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 220428907,
+    "Required_Amount_USD": 274533663,
+    "Gap_USD": 54104756
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 304859805,
+    "Required_Amount_USD": 377950488,
+    "Gap_USD": 73090683
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 241671152,
+    "Required_Amount_USD": 337710136,
+    "Gap_USD": 96038984
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 268158296,
+    "Required_Amount_USD": 375120585,
+    "Gap_USD": 106962289
+  },
+  {
+    "Year": 2023,
+    "State": "FCT",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 219894671,
+    "Required_Amount_USD": 305837456,
+    "Gap_USD": 85942785
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 138567930,
+    "Required_Amount_USD": 180776229,
+    "Gap_USD": 42208299
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 221356711,
+    "Required_Amount_USD": 271450878,
+    "Gap_USD": 50094167
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 171338808,
+    "Required_Amount_USD": 218940269,
+    "Gap_USD": 47601461
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 185127092,
+    "Required_Amount_USD": 288601602,
+    "Gap_USD": 103474510
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 155037143,
+    "Required_Amount_USD": 240745599,
+    "Gap_USD": 85708456
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 234008412,
+    "Required_Amount_USD": 360217437,
+    "Gap_USD": 126209025
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 148121897,
+    "Required_Amount_USD": 205625961,
+    "Gap_USD": 57504064
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 120091516,
+    "Required_Amount_USD": 174519331,
+    "Gap_USD": 54427815
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 168179881,
+    "Required_Amount_USD": 241766473,
+    "Gap_USD": 73586592
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 217530511,
+    "Required_Amount_USD": 336246897,
+    "Gap_USD": 118716386
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 187440718,
+    "Required_Amount_USD": 293132062,
+    "Gap_USD": 105691344
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 160973375,
+    "Required_Amount_USD": 249828839,
+    "Gap_USD": 88855464
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 125909359,
+    "Required_Amount_USD": 198436288,
+    "Gap_USD": 72526929
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 153866509,
+    "Required_Amount_USD": 238560360,
+    "Gap_USD": 84693851
+  },
+  {
+    "Year": 2024,
+    "State": "Adamawa",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 174255621,
+    "Required_Amount_USD": 274467496,
+    "Gap_USD": 100211875
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 186575170,
+    "Required_Amount_USD": 263543937,
+    "Gap_USD": 76968767
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 263194618,
+    "Required_Amount_USD": 369662888,
+    "Gap_USD": 106468270
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 208768343,
+    "Required_Amount_USD": 288352293,
+    "Gap_USD": 79583950
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 245901094,
+    "Required_Amount_USD": 375925115,
+    "Gap_USD": 130024021
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 169615021,
+    "Required_Amount_USD": 265606372,
+    "Gap_USD": 95991351
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 196644093,
+    "Required_Amount_USD": 304364477,
+    "Gap_USD": 107720384
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 232487740,
+    "Required_Amount_USD": 325090741,
+    "Gap_USD": 92603001
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 200308872,
+    "Required_Amount_USD": 279339857,
+    "Gap_USD": 79030985
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 178155034,
+    "Required_Amount_USD": 245929138,
+    "Gap_USD": 67774104
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 247456962,
+    "Required_Amount_USD": 303008959,
+    "Gap_USD": 55551997
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 200530154,
+    "Required_Amount_USD": 253425300,
+    "Gap_USD": 52895146
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 228028496,
+    "Required_Amount_USD": 283704104,
+    "Gap_USD": 55675608
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 189280395,
+    "Required_Amount_USD": 232760789,
+    "Gap_USD": 43480394
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 115853195,
+    "Required_Amount_USD": 152288703,
+    "Gap_USD": 36435508
+  },
+  {
+    "Year": 2024,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 215074089,
+    "Required_Amount_USD": 264719517,
+    "Gap_USD": 49645428
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 239226603,
+    "Required_Amount_USD": 294664387,
+    "Gap_USD": 55437784
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 265627389,
+    "Required_Amount_USD": 330713473,
+    "Gap_USD": 65086084
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 288893882,
+    "Required_Amount_USD": 353333965,
+    "Gap_USD": 64440083
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 310974444,
+    "Required_Amount_USD": 477678127,
+    "Gap_USD": 166703683
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 337722589,
+    "Required_Amount_USD": 519022616,
+    "Gap_USD": 181300027
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 264030379,
+    "Required_Amount_USD": 405006880,
+    "Gap_USD": 140976501
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 225581428,
+    "Required_Amount_USD": 352506763,
+    "Gap_USD": 126925335
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 179663976,
+    "Required_Amount_USD": 280513512,
+    "Gap_USD": 100849536
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 273407930,
+    "Required_Amount_USD": 421791569,
+    "Gap_USD": 148383639
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 303960879,
+    "Required_Amount_USD": 377381945,
+    "Gap_USD": 73421066
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 271569012,
+    "Required_Amount_USD": 334441359,
+    "Gap_USD": 62872347
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 250983007,
+    "Required_Amount_USD": 306537926,
+    "Gap_USD": 55554919
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 215156326,
+    "Required_Amount_USD": 272659637,
+    "Gap_USD": 57503311
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 266221389,
+    "Required_Amount_USD": 325616753,
+    "Gap_USD": 59395364
+  },
+  {
+    "Year": 2024,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 321861016,
+    "Required_Amount_USD": 400531282,
+    "Gap_USD": 78670266
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 328400832,
+    "Required_Amount_USD": 401508459,
+    "Gap_USD": 73107627
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 221490453,
+    "Required_Amount_USD": 279851854,
+    "Gap_USD": 58361401
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 247702638,
+    "Required_Amount_USD": 305170740,
+    "Gap_USD": 57468102
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 283524656,
+    "Required_Amount_USD": 351239895,
+    "Gap_USD": 67715239
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 390826870,
+    "Required_Amount_USD": 477984073,
+    "Gap_USD": 87157203
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 363939656,
+    "Required_Amount_USD": 447159570,
+    "Gap_USD": 83219914
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 273339554,
+    "Required_Amount_USD": 417135986,
+    "Gap_USD": 143796432
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 304321982,
+    "Required_Amount_USD": 468545519,
+    "Gap_USD": 164223537
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 352913125,
+    "Required_Amount_USD": 536276405,
+    "Gap_USD": 183363280
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 216426479,
+    "Required_Amount_USD": 335713724,
+    "Gap_USD": 119287245
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 289805352,
+    "Required_Amount_USD": 449668091,
+    "Gap_USD": 159862739
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 236014810,
+    "Required_Amount_USD": 366605607,
+    "Gap_USD": 130590797
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 300563772,
+    "Required_Amount_USD": 419509591,
+    "Gap_USD": 118945819
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 227130258,
+    "Required_Amount_USD": 319310526,
+    "Gap_USD": 92180268
+  },
+  {
+    "Year": 2024,
+    "State": "Rivers",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 255196732,
+    "Required_Amount_USD": 350038209,
+    "Gap_USD": 94841477
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 234331122,
+    "Required_Amount_USD": 293639087,
+    "Gap_USD": 59307965
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 302916484,
+    "Required_Amount_USD": 369855219,
+    "Gap_USD": 66938735
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 279802069,
+    "Required_Amount_USD": 343251110,
+    "Gap_USD": 63449041
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 305437154,
+    "Required_Amount_USD": 427160946,
+    "Gap_USD": 121723792
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 329999946,
+    "Required_Amount_USD": 455955633,
+    "Gap_USD": 125955687
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Energy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 378995256,
+    "Required_Amount_USD": 525544861,
+    "Gap_USD": 146549605
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 345178688,
+    "Required_Amount_USD": 426431972,
+    "Gap_USD": 81253284
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 366131969,
+    "Required_Amount_USD": 446277911,
+    "Gap_USD": 80145942
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 397653743,
+    "Required_Amount_USD": 491434361,
+    "Gap_USD": 93780618
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 290849846,
+    "Required_Amount_USD": 357853301,
+    "Gap_USD": 67003455
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 337271318,
+    "Required_Amount_USD": 415411909,
+    "Gap_USD": 78140591
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Green Economy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 365940894,
+    "Required_Amount_USD": 451737521,
+    "Gap_USD": 85796627
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 355597637,
+    "Required_Amount_USD": 543640146,
+    "Gap_USD": 188042509
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 383579954,
+    "Required_Amount_USD": 585613206,
+    "Gap_USD": 202033252
+  },
+  {
+    "Year": 2024,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 335179329,
+    "Required_Amount_USD": 512045334,
+    "Gap_USD": 176866005
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 149810041,
+    "Required_Amount_USD": 235967037,
+    "Gap_USD": 86156996
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 273409614,
+    "Required_Amount_USD": 417297396,
+    "Gap_USD": 143887782
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 183067176,
+    "Required_Amount_USD": 280607077,
+    "Gap_USD": 97539901
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 230875349,
+    "Required_Amount_USD": 358205248,
+    "Gap_USD": 127329899
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 174016195,
+    "Required_Amount_USD": 273119994,
+    "Gap_USD": 99103799
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 207732084,
+    "Required_Amount_USD": 317461247,
+    "Gap_USD": 109729163
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 233169064,
+    "Required_Amount_USD": 329474099,
+    "Gap_USD": 96305035
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 295356484,
+    "Required_Amount_USD": 407300417,
+    "Gap_USD": 111943933
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 204197970,
+    "Required_Amount_USD": 288757054,
+    "Gap_USD": 84559084
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 124241506,
+    "Required_Amount_USD": 163422393,
+    "Gap_USD": 39180887
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 90833325,
+    "Required_Amount_USD": 115927445,
+    "Gap_USD": 25094120
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 211747199,
+    "Required_Amount_USD": 263770237,
+    "Gap_USD": 52023038
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 285939675,
+    "Required_Amount_USD": 357539052,
+    "Gap_USD": 71599377
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 197087690,
+    "Required_Amount_USD": 250845771,
+    "Gap_USD": 53758081
+  },
+  {
+    "Year": 2025,
+    "State": "Adamawa",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 249670233,
+    "Required_Amount_USD": 309091307,
+    "Gap_USD": 59421074
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 192171740,
+    "Required_Amount_USD": 238009449,
+    "Gap_USD": 45837709
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 254200645,
+    "Required_Amount_USD": 316764819,
+    "Gap_USD": 62564174
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 132433724,
+    "Required_Amount_USD": 166300729,
+    "Gap_USD": 33867005
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 160800011,
+    "Required_Amount_USD": 249809346,
+    "Gap_USD": 89009335
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 277105746,
+    "Required_Amount_USD": 427702239,
+    "Gap_USD": 150596493
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 218955456,
+    "Required_Amount_USD": 339152469,
+    "Gap_USD": 120197013
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 216303185,
+    "Required_Amount_USD": 302451540,
+    "Gap_USD": 86148355
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 246166569,
+    "Required_Amount_USD": 346847507,
+    "Gap_USD": 100680938
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "ICT",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 303451487,
+    "Required_Amount_USD": 416084849,
+    "Gap_USD": 112633362
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 199428666,
+    "Required_Amount_USD": 304977875,
+    "Gap_USD": 105549209
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 228153659,
+    "Required_Amount_USD": 348599198,
+    "Gap_USD": 120445539
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Manufacturing",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 312982564,
+    "Required_Amount_USD": 481908048,
+    "Gap_USD": 168925484
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 321758135,
+    "Required_Amount_USD": 494586052,
+    "Gap_USD": 172827917
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 349741489,
+    "Required_Amount_USD": 533228880,
+    "Gap_USD": 183487391
+  },
+  {
+    "Year": 2025,
+    "State": "Lagos",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 294982922,
+    "Required_Amount_USD": 456070127,
+    "Gap_USD": 161087205
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 311396313,
+    "Required_Amount_USD": 430559440,
+    "Gap_USD": 119163127
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 276780988,
+    "Required_Amount_USD": 382354018,
+    "Gap_USD": 105573030
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Human Capital",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 250315709,
+    "Required_Amount_USD": 343845295,
+    "Gap_USD": 93529586
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 245129953,
+    "Required_Amount_USD": 376238847,
+    "Gap_USD": 131108894
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 273036994,
+    "Required_Amount_USD": 416857908,
+    "Gap_USD": 143820914
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 331810246,
+    "Required_Amount_USD": 507002274,
+    "Gap_USD": 175192028
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 308314843,
+    "Required_Amount_USD": 383322552,
+    "Gap_USD": 75007709
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 373316408,
+    "Required_Amount_USD": 460204881,
+    "Gap_USD": 86888473
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 250923834,
+    "Required_Amount_USD": 308275976,
+    "Gap_USD": 57352142
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 268836912,
+    "Required_Amount_USD": 333546233,
+    "Gap_USD": 64709321
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 205954613,
+    "Required_Amount_USD": 258807283,
+    "Gap_USD": 52852670
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 241979003,
+    "Required_Amount_USD": 296084517,
+    "Gap_USD": 54105514
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 296377270,
+    "Required_Amount_USD": 450872222,
+    "Gap_USD": 154494952
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 207681902,
+    "Required_Amount_USD": 321775138,
+    "Gap_USD": 114093236
+  },
+  {
+    "Year": 2025,
+    "State": "Kano",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 234679817,
+    "Required_Amount_USD": 364221920,
+    "Gap_USD": 129542103
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 419941776,
+    "Required_Amount_USD": 516649276,
+    "Gap_USD": 96707500
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 337279538,
+    "Required_Amount_USD": 415806325,
+    "Gap_USD": 78526787
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 360439287,
+    "Required_Amount_USD": 444853951,
+    "Gap_USD": 84414664
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 298489810,
+    "Required_Amount_USD": 369906205,
+    "Gap_USD": 71416395
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 327345316,
+    "Required_Amount_USD": 399133858,
+    "Gap_USD": 71788542
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 385069931,
+    "Required_Amount_USD": 472289460,
+    "Gap_USD": 87219529
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 383385713,
+    "Required_Amount_USD": 582899367,
+    "Gap_USD": 199513654
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 348090716,
+    "Required_Amount_USD": 535700562,
+    "Gap_USD": 187609846
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Health",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 411561873,
+    "Required_Amount_USD": 624255858,
+    "Gap_USD": 212693985
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 365095238,
+    "Required_Amount_USD": 555120681,
+    "Gap_USD": 190025443
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 275931965,
+    "Required_Amount_USD": 420622720,
+    "Gap_USD": 144690755
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Infrastructure",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 333978463,
+    "Required_Amount_USD": 510262128,
+    "Gap_USD": 176283665
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 250732364,
+    "Required_Amount_USD": 307143054,
+    "Gap_USD": 56410690
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 339136009,
+    "Required_Amount_USD": 420253118,
+    "Gap_USD": 81117109
+  },
+  {
+    "Year": 2025,
+    "State": "Rivers",
+    "Sector": "Agriculture",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 282741920,
+    "Required_Amount_USD": 353748215,
+    "Gap_USD": 71006295
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Education",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 433772825,
+    "Required_Amount_USD": 533394580,
+    "Gap_USD": 99621755
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Education",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 407509510,
+    "Required_Amount_USD": 499091895,
+    "Gap_USD": 91582385
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Education",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 469280097,
+    "Required_Amount_USD": 572744375,
+    "Gap_USD": 103464278
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Energy",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 471755850,
+    "Required_Amount_USD": 643115109,
+    "Gap_USD": 171359259
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 352503889,
+    "Required_Amount_USD": 488627003,
+    "Gap_USD": 136123114
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Energy",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 383090927,
+    "Required_Amount_USD": 522803695,
+    "Gap_USD": 139712768
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 326043665,
+    "Required_Amount_USD": 495580420,
+    "Gap_USD": 169536755
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "International Public",
+    "Actual_Amount_USD": 389359064,
+    "Required_Amount_USD": 599005601,
+    "Gap_USD": 209646537
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Manufacturing",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 359053593,
+    "Required_Amount_USD": 550030934,
+    "Gap_USD": 190977341
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "International Private",
+    "Actual_Amount_USD": 433475663,
+    "Required_Amount_USD": 534761602,
+    "Gap_USD": 101285939
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 343118008,
+    "Required_Amount_USD": 419899743,
+    "Gap_USD": 76781735
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Services",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 369747161,
+    "Required_Amount_USD": 456676323,
+    "Gap_USD": 86929162
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "IFIs",
+    "Actual_Amount_USD": 483529260,
+    "Required_Amount_USD": 732030363,
+    "Gap_USD": 248501103
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Private",
+    "Actual_Amount_USD": 398352881,
+    "Required_Amount_USD": 608291250,
+    "Gap_USD": 209938369
+  },
+  {
+    "Year": 2025,
+    "State": "FCT",
+    "Sector": "Health",
+    "Financing_Source": "Domestic Public",
+    "Actual_Amount_USD": 368142112,
+    "Required_Amount_USD": 558627976,
+    "Gap_USD": 190485864
+  }
+]

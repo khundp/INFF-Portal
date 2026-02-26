@@ -1,0 +1,6 @@
+[
+  {"Year": 2022, "Health": 180000000, "Education": 140000000, "Transport": 90000000, "Energy": 110000000, "Agriculture": 60000000, "Water & Sanitation": 75000000},
+  {"Year": 2023, "Health": 195000000, "Education": 155000000, "Transport": 98000000, "Energy": 120000000, "Agriculture": 65000000, "Water & Sanitation": 80000000},
+  {"Year": 2024, "Health": 210000000, "Education": 160000000, "Transport": 105000000, "Energy": 135000000, "Agriculture": 72000000, "Water & Sanitation": 90000000},
+  {"Year": 2025, "Health": 225000000, "Education": 170000000, "Transport": 112000000, "Energy": 145000000, "Agriculture": 78000000, "Water & Sanitation": 96000000}
+]

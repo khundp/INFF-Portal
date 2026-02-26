@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "years": ["2022", "2023", "2024", "2025"],
+    "categories": ["Pension Contributions", "Social Security Funds", "Mandatory Savings", "Other"],
+    "note": "Dummy values for UI development; replace with official data when available."
+  },
+  "bars": [
+    {"year":"2022","category":"Pension Contributions","value_usd":820000000},
+    {"year":"2022","category":"Social Security Funds","value_usd":410000000},
+    {"year":"2022","category":"Mandatory Savings","value_usd":260000000},
+    {"year":"2022","category":"Other","value_usd":95000000},
+
+    {"year":"2023","category":"Pension Contributions","value_usd":865000000},
+    {"year":"2023","category":"Social Security Funds","value_usd":430000000},
+    {"year":"2023","category":"Mandatory Savings","value_usd":275000000},
+    {"year":"2023","category":"Other","value_usd":105000000},
+
+    {"year":"2024","category":"Pension Contributions","value_usd":905000000},
+    {"year":"2024","category":"Social Security Funds","value_usd":455000000},
+    {"year":"2024","category":"Mandatory Savings","value_usd":290000000},
+    {"year":"2024","category":"Other","value_usd":115000000},
+
+    {"year":"2025","category":"Pension Contributions","value_usd":940000000},
+    {"year":"2025","category":"Social Security Funds","value_usd":480000000},
+    {"year":"2025","category":"Mandatory Savings","value_usd":305000000},
+    {"year":"2025","category":"Other","value_usd":125000000}
+  ],
+  "donut": {
+    "year": "2025",
+    "values": [
+      {"category":"Pension Contributions","value_usd":940000000},
+      {"category":"Social Security Funds","value_usd":480000000},
+      {"category":"Mandatory Savings","value_usd":305000000},
+      {"category":"Other","value_usd":125000000}
+    ]
+  }
+}
