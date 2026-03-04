@@ -52,33 +52,7 @@ function updateSpy(){
   if (current?.id) setActive(current.id);
 }
 
-// -------- Section routing (tab click shows a single section) --------
-function showSection(id){
-  if (!id) return;
-  sections.forEach(sec => sec.classList.toggle("active", sec.id === id));
-  setActive(id);
-
-  // Ensure the page starts at the top when switching sections
-  window.scrollTo({ top: 0, behavior: "auto" });
-
-  // Trigger resize so Chart.js can recalc canvas sizes
-  window.dispatchEvent(new Event("resize"));
-
-  // Leaflet map (Overview) needs a size invalidate when its container becomes visible
-  try{
-    if (window.__OV_MAP && typeof window.__OV_MAP.invalidateSize === "function"){
-      window.__OV_MAP.invalidateSize();
-    }
-  }catch(e){}
-}
-
-function showSectionFromHash(){
-  const raw = (location.hash || "").replace("#", "");
-  const id = raw || (sections[0] && sections[0].id);
-  showSection(id);
-}
-
-// Clicking a tab updates the hash (so it can be bookmarked/shared) and shows the section.
+// Smooth-scroll with offset + set active immediately on click.
 spyLinks.forEach(a => {
   a.addEventListener("click", (e) => {
     const href = a.getAttribute("href") || "";
@@ -87,20 +61,18 @@ spyLinks.forEach(a => {
     if (!target) return;
 
     e.preventDefault();
-    if (location.hash !== href){
-      history.pushState(null, "", href);
-    }
-    showSection(target.id);
+    setActive(target.id);
+
+    const top = target.getBoundingClientRect().top + window.scrollY - spyOffset() + 1;
+    window.scrollTo({ top, behavior: "smooth" });
   });
 });
 
-// On back/forward or manual hash edit
-window.addEventListener("hashchange", showSectionFromHash);
-window.addEventListener("load", showSectionFromHash);
-
-// Initialize immediately (in case scripts load after DOM)
-showSectionFromHash();
-
+// Update on load + on scroll/resize
+window.addEventListener("scroll", () => requestAnimationFrame(updateSpy), { passive: true });
+window.addEventListener("resize", () => requestAnimationFrame(updateSpy));
+window.addEventListener("load", () => requestAnimationFrame(updateSpy));
+updateSpy();
 
 const $ = (id) => document.getElementById(id);
 function qs(params){ return new URLSearchParams(params).toString(); }
@@ -949,7 +921,7 @@ function makeGapClosedStacked(id, labels, closedPct){
       },
       scales:{
         // Show year/category labels (same sizing as TOTAL FINANCING MOBILISED BY YEAR)
-        x:{ stacked:true, grid:{display:false}, ticks:{display:true, autoSkip:false, maxRotation:0, minRotation:0, color:"#2b2740", font:{size:14, weight:'700'}, padding:6 } },
+        x:{ stacked:true, grid:{display:false}, ticks:{display:false, color:"#2b2740", font:{size:14, weight:'700'}, padding:6 } },
         y:{ stacked:true, grid:{display:false}, ticks:{display:false}, suggestedMax:100, beginAtZero:true }
       }
     }
@@ -1350,36 +1322,7 @@ async function renderPillar3Extra_(){
   p3GapClosedTrendChart = new Chart($("p3GapClosedTrend"), {
     type:"line",
     data:{ labels: years, datasets:[{ label:"% gap closed", data: pct, borderWidth:3, tension:0.3, fill:false }] },
-    options:{
-      // Keep tick text crisp and match the styling used in
-      // “TOTAL FINANCING MOBILISED BY YEAR” (makeYearBar)
-      devicePixelRatio: Math.max(2, (window.devicePixelRatio||1)),
-      responsive:true,
-      maintainAspectRatio:false,
-      layout:{ padding:{ bottom:12, left:4, right:4 } },
-      plugins:{
-        legend:{display:false},
-        tooltip:{ callbacks:{ label:(c)=> `${Number(c.raw||0).toFixed(1)}%` } }
-      },
-      scales:{
-        x:{
-          display:true,
-          grid:{display:false},
-          ticks:{
-            display:true,
-            autoSkip:false,
-            maxRotation:0,
-            minRotation:0,
-            color:"#2b2740",
-            font:{ size:14, weight:'700' },
-            padding:6
-          }
-        },
-        y:{
-          ticks:{ callback:(v)=> v + "%" }
-        }
-      }
-    }
+    options:{ responsive:true, maintainAspectRatio:false, plugins:{ legend:{display:false}, tooltip:{ callbacks:{ label:(c)=> `${Number(c.raw||0).toFixed(1)}%` } } }, scales:{ x:{ grid:{display:false} }, y:{  ticks:{ callback:(v)=> v + "%" } } } }
   });
 }
 
@@ -1537,7 +1480,7 @@ function renderGapTrend_(rec){
       responsive:true,
       maintainAspectRatio:false,
       plugins:{ legend:{ position:"top" }, tooltip:{ enabled:true } },
-      scales:{ x:{ display:true, grid:{ display:false }, ticks:{ display:true, autoSkip:false, maxRotation:0, minRotation:0, color:"#2b2740", font:{ size:14, weight:"700" }, padding:6 } }, y:{ ticks:{ callback:(v)=>`$${v}B` } } }
+      scales:{ x:{ grid:{ display:false } }, y:{ ticks:{ callback:(v)=>`$${v}B` } } }
     }
   });
 }
