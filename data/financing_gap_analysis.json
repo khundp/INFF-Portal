@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "currency": "USD",
+    "unit": "B",
+    "source": "dummy"
+  },
+  "filters": {
+    "years": [
+      2023,
+      2024,
+      2025
+    ],
+    "states": [
+      "ALL",
+      "ADAMAWA",
+      "LAGOS"
+    ],
+    "sectors": [
+      "ALL",
+      "ENERGY",
+      "HEALTH"
+    ]
+  },
+  "records": [
+    {
+      "year": 2025,
+      "state": "ADAMAWA",
+      "sector": "ENERGY",
+      "kpis": {
+        "aggregate_gap": {
+          "value": 34.2,
+          "unit": "B",
+          "sub": "Against $46.7B SDG need \u00b7 2025",
+          "chip": "+ 3.1% YoY"
+        },
+        "yoy_change": {
+          "value": 12.5,
+          "unit": "B",
+          "sub": "54% of ODA \u00b7 2025",
+          "chip": "+ 8% since 2024"
+        },
+        "largest_gap": {
+          "value": 72,
+          "unit": "%",
+          "sub": "Debt to GDP: 38.4%",
+          "chip": "+ 2pts since Q3 2024"
+        },
+        "private_mobilisation": {
+          "value": 67,
+          "unit": "%",
+          "sub": "A percent of total remittances \u00b7 2025",
+          "chip": "1 Reform at risk"
+        }
+      },
+      "gap_trends": {
+        "labels": [
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "need": [
+          10,
+          11,
+          11.5,
+          12.2,
+          13.0,
+          13.7,
+          14.2
+        ],
+        "available": [
+          7.2,
+          7.5,
+          7.8,
+          7.9,
+          8.0,
+          8.1,
+          8.2
+        ]
+      },
+      "needs_vs_available": {
+        "labels": [
+          "Domestic Public",
+          "External Public",
+          "Philanthropic",
+          "Blended Finance",
+          "Private Sector"
+        ],
+        "need": [
+          3.5,
+          2.6,
+          1.2,
+          2.0,
+          3.6
+        ],
+        "available": [
+          2.1,
+          1.4,
+          0.6,
+          1.1,
+          1.0
+        ]
+      },
+      "gap_by_sector": [
+        {
+          "sector": "Education",
+          "need": 6.2,
+          "pct_gap": 72
+        },
+        {
+          "sector": "Health & Social Protection",
+          "need": 8.1,
+          "pct_gap": 47
+        },
+        {
+          "sector": "Infrastructure",
+          "need": 12.4,
+          "pct_gap": 68
+        },
+        {
+          "sector": "Climate & Environment",
+          "need": 4.8,
+          "pct_gap": 58
+        },
+        {
+          "sector": "Agriculture",
+          "need": 3.2,
+          "pct_gap": 88
+        },
+        {
+          "sector": "Digital & ICT",
+          "need": 2.0,
+          "pct_gap": 51
+        }
+      ]
+    }
+  ]
+}

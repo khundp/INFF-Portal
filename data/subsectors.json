@@ -1,0 +1,37 @@
+{
+  "Agriculture": [
+    {"label": "Crops"},
+    {"label": "Livestock"},
+    {"label": "Fisheries"},
+    {"label": "Agri-value chains"},
+    {"label": "Irrigation & water for agriculture"}
+  ],
+  "Health": [
+    {"label": "Primary healthcare"},
+    {"label": "Hospitals & referrals"},
+    {"label": "Maternal & child health"},
+    {"label": "Disease prevention"},
+    {"label": "Health systems & workforce"}
+  ],
+  "Education": [
+    {"label": "Basic education"},
+    {"label": "Secondary education"},
+    {"label": "TVET & skills"},
+    {"label": "Higher education"},
+    {"label": "Education infrastructure"}
+  ],
+  "Infrastructure": [
+    {"label": "Transport"},
+    {"label": "Energy"},
+    {"label": "Water & sanitation"},
+    {"label": "Digital connectivity"},
+    {"label": "Urban services"}
+  ],
+  "Social Protection": [
+    {"label": "Cash transfers"},
+    {"label": "Social insurance"},
+    {"label": "Shock-responsive support"},
+    {"label": "Disability inclusion"},
+    {"label": "Targeting & delivery systems"}
+  ]
+}
